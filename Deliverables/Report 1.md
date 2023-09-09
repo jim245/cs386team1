@@ -1,5 +1,5 @@
 # Report 1
-Group 1: <br>
+Group 1: The Game<br>
 Date and Location: 09/09/2023 @ Cline Library, Room 292 <br>
 Present Participants: Zach, Andrew, Colin, Jade <br>
 Missing Participants: Jack <br>
@@ -12,3 +12,40 @@ N/A <br>
 N/A <br>
 
 ## 3. Next steps
+
+### Introductions
+Colin = 4 years of CS in HS, semester worth of Unity, Java, C, C#, C++, HTML.
+Andrew = 2 years of CS in HS, Java, C, Javascript, HTML, Internship at company for general web development
+Jade = 1 year of CS, hobby computing, C, Python, Java, Javascript, HTML, CSS, Rust.
+Zach, 1 year of CS in HS, Java, Python, C
+
+### Availability
+
+### Timeslot
+Weekdays, Friday most likely, afternoon
+
+### Roles
+Colin = Manager
+Zach = Quality Assurance
+Jade = Minute Taker
+Andrew = Presenter
+
+### Decision-Making Process
+3/5 majority vote
+
+### Disagreements
+Too much control = Talk/cover it in a meeting
+Lack of responsibility = Talk to them, talk to professor
+Late meetings = Contact outside of usual channels
+
+### Project Idea
+A 2d sidescrolling platformer in Unity. The character would have 8 directional movement, every 45 degrees depending on what arrow keys are pressed. Prioritizing ones pressed first. Gravity will of course be present 
+Optional Additons: Wall dashes (1st priority if possible), moving platforms/fading platforms, more precise movement
+
+### Technologies
+Unity + libraries
+
+Discord will be used to disseminate
+
+### Communication
+Discord
