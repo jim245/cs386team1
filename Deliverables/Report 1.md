@@ -21,7 +21,7 @@ Zach, 1 year of CS in HS, Java, Python, C
 
 ### Availability
 Colin - T/Th After 12PM, All Friday
-Zach- All Tuesday, Mon/Wed after 4pm, Friday after 12:30pm
+Zach - All Tuesday, Mon/Wed after 4pm, Friday after 12:30pm
 
 ### Timeslot
 Weekdays, Friday most likely, afternoon
