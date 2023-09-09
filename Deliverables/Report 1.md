@@ -20,6 +20,8 @@ Jade = 1 year of CS, hobby computing, C, Python, Java, Javascript, HTML, CSS, Ru
 Zach, 1 year of CS in HS, Java, Python, C
 
 ### Availability
+Colin - T/Th After 12PM, All Friday
+
 
 ### Timeslot
 Weekdays, Friday most likely, afternoon
