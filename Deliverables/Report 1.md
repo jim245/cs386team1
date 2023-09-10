@@ -6,31 +6,37 @@ Missing Participants: Jack <br>
 Project repo: https://github.com/jim245/cs386team1/tree/main <br>
 
 ## 1. Summary of activities
-N/A <br>
+Developed the idea for the project, starting looking around for resources to use. <br>
 
 ## 2. Project Retrospective
-N/A <br>
+The only issue we had was some initial communication via Discord and Canvas mail. Nothing else to report. <br>
 
 ## 3. Next steps
+We need to look for resources that could potentially help us develop this game, and start to learn the tools we are going to use, namely Unity. This applies to everyone for now. <br>
 
-### Introductions
-Colin = 4 years of CS in HS, semester worth of Unity, Java, C, C#, C++, HTML.
-Andrew = 2 years of CS in HS, Java, C, Javascript, HTML, Internship at company for general web development
-Jade = 1 year of CS, hobby computing, C, Python, Java, Javascript, HTML, CSS, Rust.
-Zach, 1 year of CS in HS, Java, Python, C
+# The First Meeting
 
-### Availability
-Colin - T/Th After 12PM, All Friday  
+## 1. Introductions
+Andrew = 2 years of CS in HS, familiar with Java, C, Javascript and HTML, had an internship at company for general web development. <br>
+Colin = 4 years of CS in HS, semester worth of Unity in HS, familiar with Java, C, C#, C++ and HTML. <br>
+Jade = 1 year of CS in HS, does hobby computing for fun, familiar with C, Python, Java, Javascript, HTML, CSS and Rust. <br>
+Zach, 1 year of CS in HS, familiar with Java, Python and C. <br>
+
+## 2. Availability
+Colin - T/Th After 12PM, All Friday
+Jade - T/Th 12-3PM, F 12-3PM
 Zach - All Tuesday, Mon/Wed after 4pm, Friday after 12:30pm  
 
-### Timeslot
+## 3. Timeslot
 Weekdays, Friday most likely, afternoon
 
-### Roles
+## 4. Roles
 Colin = Manager
 Zach = Quality Assurance
 Jade = Minute Taker
 Andrew = Presenter
+
+# Other
 
 ### Decision-Making Process
 3/5 majority vote
@@ -45,9 +51,7 @@ A 2d sidescrolling platformer in Unity. The character would have 8 directional m
 Optional Additons: Wall dashes (1st priority if possible), moving platforms/fading platforms, more precise movement
 
 ### Technologies
-Unity + libraries
-
-Discord will be used to disseminate
+Unity + various libraries
 
 ### Communication
 Discord
