@@ -15,7 +15,6 @@ The only issue we had was some initial communication via Discord and Canvas mail
 We need to look for resources that could potentially help us develop this game, and start to learn the tools we are going to use, namely Unity. This applies to everyone for now. <br>
 
 # The First Meeting
-
 ## 1. Introductions
 Andrew = 2 years of CS in HS, familiar with Java, C, Javascript and HTML, had an internship at company for general web development. <br>
 Colin = 4 years of CS in HS, semester worth of Unity in HS, familiar with Java, C, C#, C++ and HTML. <br>
@@ -28,7 +27,7 @@ Jade - T/Th 12-3PM, F 12-3PM <br>
 Zach - All Tuesday, Mon/Wed after 4pm, Friday after 12:30pm <br>
 
 ## 3. Timeslot
-Weekdays, Friday most likely, afternoon
+Weekdays, Friday most likely, afternoon <br>
 
 ## 4. Roles
 Andrew = Presenter <br>
@@ -37,21 +36,23 @@ Jade = Minute Taker <br>
 Zach = Quality Assurance <br>
 
 # Other
+## Decision-Making Process
+3/5 majority vote <br>
 
-### Decision-Making Process
-3/5 majority vote
-
-### Disagreements
+## Disagreements
 Too much control = Talk/cover it in a meeting <br>
 Lack of responsibility = Talk to them, talk to professor <br>
 Late meetings = Contact outside of usual channels <br>
 
-### Project Idea
-A 2d sidescrolling platformer in Unity. The character would have 8 directional movement, every 45 degrees depending on what arrow keys are pressed. Prioritizing ones pressed first. Gravity will of course be present 
-Optional Additons: Wall dashes (1st priority if possible), moving platforms/fading platforms, more precise movement
+## Project Idea
+A 2d sidescrolling platformer in Unity. The character would have 8 directional movement, every 45 degrees depending on what arrow keys are pressed. Prioritizing ones pressed first. Gravity will of course be present. <br>
+Optional Additons: Wall dashes (1st priority if possible), moving platforms/fading platforms, more precise movement. <br>
 
-### Technologies
-Unity + various libraries
+## Technologies
+Unity + various libraries <br>
 
-### Communication
-Discord
+## Communication
+Discord <br>
+
+## Spreadsheet
+https://docs.google.com/spreadsheets/d/1N8c55U6Gvfm3mNP4QG-HUO9M8QrQjNfbVoJ62iJDqkc/edit?usp=sharing <br>
