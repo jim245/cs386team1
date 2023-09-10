@@ -1,7 +1,7 @@
 # Report 1
 Group 1: The Game<br>
 Date and Location: 09/09/2023 @ Cline Library, Room 292 <br>
-Present Participants: Zach, Andrew, Colin, Jade <br>
+Present Participants: Andrew, Colin, Jade and Zach <br>
 Missing Participants: Jack <br>
 Project repo: https://github.com/jim245/cs386team1/tree/main <br>
 
@@ -31,10 +31,10 @@ Zach - All Tuesday, Mon/Wed after 4pm, Friday after 12:30pm
 Weekdays, Friday most likely, afternoon
 
 ## 4. Roles
-Colin = Manager
-Zach = Quality Assurance
-Jade = Minute Taker
 Andrew = Presenter
+Colin = Manager
+Jade = Minute Taker
+Zach = Quality Assurance
 
 # Other
 
