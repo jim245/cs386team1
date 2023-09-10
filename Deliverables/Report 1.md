@@ -23,18 +23,18 @@ Jade = 1 year of CS in HS, does hobby computing for fun, familiar with C, Python
 Zach, 1 year of CS in HS, familiar with Java, Python and C. <br>
 
 ## 2. Availability
-Colin - T/Th After 12PM, All Friday
-Jade - T/Th 12-3PM, F 12-3PM
-Zach - All Tuesday, Mon/Wed after 4pm, Friday after 12:30pm  
+Colin - T/Th After 12PM, All Friday <br>
+Jade - T/Th 12-3PM, F 12-3PM <br>
+Zach - All Tuesday, Mon/Wed after 4pm, Friday after 12:30pm <br>
 
 ## 3. Timeslot
 Weekdays, Friday most likely, afternoon
 
 ## 4. Roles
-Andrew = Presenter
-Colin = Manager
-Jade = Minute Taker
-Zach = Quality Assurance
+Andrew = Presenter <br>
+Colin = Manager <br>
+Jade = Minute Taker <br>
+Zach = Quality Assurance <br>
 
 # Other
 
@@ -42,9 +42,9 @@ Zach = Quality Assurance
 3/5 majority vote
 
 ### Disagreements
-Too much control = Talk/cover it in a meeting
-Lack of responsibility = Talk to them, talk to professor
-Late meetings = Contact outside of usual channels
+Too much control = Talk/cover it in a meeting <br>
+Lack of responsibility = Talk to them, talk to professor <br>
+Late meetings = Contact outside of usual channels <br>
 
 ### Project Idea
 A 2d sidescrolling platformer in Unity. The character would have 8 directional movement, every 45 degrees depending on what arrow keys are pressed. Prioritizing ones pressed first. Gravity will of course be present 
