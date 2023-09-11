@@ -6,13 +6,13 @@ Missing Participants: Jack <br>
 Project repo: https://github.com/jim245/cs386team1/tree/main <br>
 
 ## 1. Summary of activities
-Developed the idea for the project, starting looking around for resources to use. <br>
+We all developed and solidified the idea for the project, starting looking around for resources to use. <br>
 
 ## 2. Project Retrospective
-The only issue we had was some initial communication via Discord and Canvas mail. Nothing else to report. <br>
+The only issue we had was some initial communication via Discord and Canvas mail. Since it is the first week, there is nothing else to report. <br>
 
 ## 3. Next steps
-We need to look for resources that could potentially help us develop this game, and start to learn the tools we are going to use, namely Unity. This applies to everyone for now. <br>
+We need to look for resources that could potentially help us develop this game, and start to learn the tools we are going to use, namely Unity. This applies to everyone for now. Colin found a youtube playlist that helps go over how to make a similar program with unity.<br>
 
 # The First Meeting
 ## 1. Introductions
@@ -25,6 +25,7 @@ Zach, 1 year of CS in HS, familiar with Java, Python and C. <br>
 Colin - T/Th After 12PM, All Friday <br>
 Jade - T/Th 12-3PM, F 12-3PM <br>
 Zach - All Tuesday, Mon/Wed after 4pm, Friday after 12:30pm <br>
+Jack & Andrew - [Hasn't put one]
 
 ## 3. Timeslot
 Weekdays, Friday most likely, afternoon <br>
