@@ -25,7 +25,8 @@ Zach, 1 year of CS in HS, familiar with Java, Python and C. <br>
 Colin - T/Th After 12PM, All Friday <br>
 Jade - T/Th 12-3PM, F 12-3PM <br>
 Zach - All Tuesday, Mon/Wed after 4pm, Friday after 12:30pm <br>
-Jack & Andrew - [Hasn't put one]
+Jack - Tue/Thu after 12PM, Friday after 12:30pm <br>
+Andrew - [Hasn't put one]
 
 ## 3. Timeslot
 Weekdays, Friday most likely, afternoon <br>
