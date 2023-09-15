@@ -1,7 +1,7 @@
 # Project Inception
 Group 01 – “[Go Forth!]” <br>
 Date and location: Sep 15, 2023 <br>
-Group Members: Jack Watson, Andrew Angus, Colin MacDonald, Jade Meskill, Zach Trusso
+Group Members: Andrew Angus, Colin MacDonald, Jack Watson, Jade Meskill and Zach Trusso <br>
 
 ## 1. Introduction
 Go Forth and explore this 2D world! It is a 2D sidescroller set in the medival period. You are tasked by the king to explore a dangerous area and collect relics to bring back to the kingdom. Speedrun your way to the end of levels or take time to explore your surrondings and obtain powerups to assist you on your journey. 
