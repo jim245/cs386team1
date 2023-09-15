@@ -10,7 +10,7 @@ This is a risk and reward style speedruning 2d sidescroller! Will you perfectly 
 ## 2. Initial value proposition and consumer segments
 ### IVP:
 
-Go Forth will a fun, challenging speedrun focused 2D sidescroller which engage users through fun gameplay and unique rewards.
+Go Forth will a fun, challenging speedrun focused 2D sidescroller which engage users through fun gameplay and compelling competition.
 
 ### Initial Consumer Segments:
 
