@@ -6,7 +6,7 @@ Missing Participants: Jack <br>
 Project repo: https://github.com/jim245/cs386team1/tree/main <br>
 
 ## 1. Summary of activities
-We all developed and solidified the idea for the project, starting looking around for resources to use. <br>
+We all developed and solidified the idea for the project, starting looking around for resources to use. Most of us installed Unity for leaning and future use.<br>
 
 ## 2. Project Retrospective
 The only issue we had was some initial communication via Discord and Canvas mail. Since it is the first week, there is nothing else to report. <br>
