@@ -18,7 +18,9 @@ Go Forth will a fun, challenging speedrun focused 2D sidescroller which engage u
 - Casual gamers
 - Serious gamers
 - Speedrunners
+- Teachers (for in class teaching purposes)
 - Retro game fans
+- Parents
 
 ## 3. Interviews summary
 
@@ -140,4 +142,10 @@ Go Forth will a fun, challenging speedrun focused 2D sidescroller which engage u
 
 
 #### Assessment: Must have / Nice to have / Don’t care
+
+
+## 4. Final value proposition and consumer segments
+**Final Value Proposition:**
+
+**Consumer segments:**
 
