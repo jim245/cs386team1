@@ -1,14 +1,14 @@
 # Report for Week 2 Meeting
 Group 1: Go Forth! <br>
-Date and location: 09/15/2023, Cline Library, Room 290<br>
-Present participants: Colin (Quality Assurance), Jack(Minute Taker), Jade(Manager) <br>
+Date and location: 09/15/2023, Cline Library, Room 290 <br>
+Present participants: Colin (Quality Assurance), Jack(Minute Taker) and Jade(Manager) <br>
 Missing participants: Andrew and Zach <br>
 Project repo: [GITHUB REPO](https://github.com/jim245/cs386team1/tree/main) <br>
 
 # 1. Summary of Activities
-Get a basic framework of the game
-Get a few basic objects built into the game
-Complete 1st deliverable
+Get a basic framework of the game. <br>
+Get a few basic objects built into the game. <br>
+Complete 1st deliverable. <br>
 
 # 2. Project Retrospective
 After the initial meeting, we have begun to learn the unity skills required and we are now implementing the first iterations of some basic game objects.
