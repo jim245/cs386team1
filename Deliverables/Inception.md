@@ -41,3 +41,103 @@ Go Forth will a fun, challenging speedrun focused 2D sidescroller which engage u
 
 #### Assessment: Must have / Nice to have / Don’t care
 
+
+### Interview 2:
+**Summary**: 
+
+**Interviewer**: 
+**Interviewee**: 
+**When**: 
+**Consumer Segments**: 
+
+#### Key insights
+
+
+#### Representative quotes
+
+
+#### Hypotheses that were validated
+
+
+#### Assessment: Must have / Nice to have / Don’t care
+
+
+### Interview 3:
+**Summary**: 
+
+**Interviewer**: 
+**Interviewee**: 
+**When**: 
+**Consumer Segments**: 
+
+#### Key insights
+
+
+#### Representative quotes
+
+
+#### Hypotheses that were validated
+
+
+#### Assessment: Must have / Nice to have / Don’t care
+
+
+### Interview 4:
+**Summary**: 
+
+**Interviewer**: 
+**Interviewee**: 
+**When**: 
+**Consumer Segments**: 
+
+#### Key insights
+
+
+#### Representative quotes
+
+
+#### Hypotheses that were validated
+
+
+#### Assessment: Must have / Nice to have / Don’t care
+
+
+### Interview 5:
+**Summary**: 
+
+**Interviewer**: 
+**Interviewee**: 
+**When**: 
+**Consumer Segments**: 
+
+#### Key insights
+
+
+#### Representative quotes
+
+
+#### Hypotheses that were validated
+
+
+#### Assessment: Must have / Nice to have / Don’t care
+
+
+### Interview 6:
+**Summary**: 
+
+**Interviewer**: 
+**Interviewee**: 
+**When**: 
+**Consumer Segments**: 
+
+#### Key insights
+
+
+#### Representative quotes
+
+
+#### Hypotheses that were validated
+
+
+#### Assessment: Must have / Nice to have / Don’t care
+
