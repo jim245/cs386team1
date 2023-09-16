@@ -25,24 +25,31 @@ Go Forth will a fun, challenging speedrun focused 2D sidescroller which engage u
 ## 3. Interviews summary
 
 ### Interview 1:
-**Summary**: 
+**Summary**: Interviewee was interested in a challenging 2d sidescroller with an online leaderboard. They liked the idea of competing for the best time, but also suggested additional rewards for quickness such as unlockable player skins. The interviewee also recommended adjusting the game to accommodate for both casual and serious gamers.
 
-**Interviewer**: 
-**Interviewee**: 
-**When**: 
-**Consumer Segments**: 
+**Interviewer**: Andrew Angus
+**Interviewee**: Scottie Freeman
+**When**: 9/16/2023
+**Consumer Segments**: Serious gamer, speedrunner
 
 #### Key insights
-
+- Showed a desire in unlockables upon clearing the game.
+- Stated that they would play a game with 
 
 #### Representative quotes
-
+- "The game should have some level of depth usually, but I guess it depends on how I feel."
+- "Make an elemental trio of special block, movement, and enemy interactions like you're Nintendo."
+- "Bright colors make brain go happy."
 
 #### Hypotheses that were validated
-
+- An online leaderboard provides an adequate reason for speedrunning the game.
+- Precise movement makes a game more fun to speedrun.
 
 #### Assessment: Must have / Nice to have / Don’t care
-
+- Range between intensive and casual (Nice to have)
+- Colorful (Nice to have)
+- Multiplayer (Don't care)
+- Intriguing story (Don't care)
 
 ### Interview 2:
 **Summary**: 
