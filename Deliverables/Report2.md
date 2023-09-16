@@ -1,7 +1,7 @@
 # Report for Week 2 Meeting
 Group 1: Go Forth! <br>
 Date and location: 09/15/2023, Cline Library, Room 290 <br>
-Present participants: Colin (Quality Assurance), Jack(Minute Taker) and Jade(Manager) <br>
+Present participants: Colin (Quality Assurance), Jack (Minute Taker) and Jade (Manager) <br>
 Missing participants: Andrew and Zach (Excused, had reasons to not attend the meeting)<br>
 Project repo: [GITHUB REPO](https://github.com/jim245/cs386team1/tree/main) <br>
 
