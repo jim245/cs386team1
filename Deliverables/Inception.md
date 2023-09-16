@@ -52,24 +52,30 @@ Go Forth will a fun, challenging speedrun focused 2D sidescroller which engage u
 - Intriguing story (Don't care)
 
 ### Interview 2:
-**Summary**: 
+**Summary**: Interviewee is a serious gamer that enjoys games with good movement. The game should be difficult and frustrating at times. The most important features are smooth movement and good controls. The interviewee also was interested in some sort of achievement system that would be satisfying to fully complete.
 
-**Interviewer**: 
-**Interviewee**: 
-**When**: 
-**Consumer Segments**: 
+**Interviewer**: Andrew Angus <br>
+**Interviewee**: Declan Schaefer <br>
+**When**: 9/16/2023 <br>
+**Consumer Segments**: Serious gamer, retro game fan <br>
 
 #### Key insights
-
+- Does not want to pay for additional features besides the initial game cost.
+- Levels should be long with multiple checkpoints.
 
 #### Representative quotes
-
+- "I think I would play the game if the levels were challenging and there was a satisfying 100%"
+- "I'm not paying for the battlepass."
 
 #### Hypotheses that were validated
-
+- Hidden levels add replayability
+- No sliding movement unless on ice.
 
 #### Assessment: Must have / Nice to have / Don’t care
-
+- Smooth (Must have)
+- Frustrating difficulty (Nice to have)
+- Good controls (Nice to have)
+- Enemies (Don't care)
 
 ### Interview 3:
 **Summary**: 
