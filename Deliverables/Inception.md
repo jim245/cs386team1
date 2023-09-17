@@ -107,10 +107,10 @@ all the collectibles in the game. They would also be interested if the game has 
 ### Interview 4:
 **Summary**: The interviewee is a gamer with a preference for games that offer a mix of challenge and enjoyment. They appreciate a well-crafted 2D sidescroller with attention to detail in gameplay and visuals. While they aren't a hardcore speedrunner, they appreciate the option to compete on leaderboards. Additionally, they value a game that balances accessibility for casual players and depth for serious gamers.
 
-**Interviewer**: Jack Watson
-**Interviewee**: Imogen Benton
-**When**: 09/17/2023
-**Consumer Segments**: Casual gamer, appreciates challenging gameplay
+**Interviewer**: Jack Watson <br>
+**Interviewee**: Imogen Benton <br>
+**When**: 09/17/2023 <br>
+**Consumer Segments**: Casual gamer, appreciates challenging gameplay <br>
 
 #### Key insights
 - Enjoys competitive aspects like leaderboards but isn't a hardcore speedrunner.
