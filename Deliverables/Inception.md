@@ -105,24 +105,36 @@ all the collectibles in the game. They would also be interested if the game has 
 - Cosmetics (don't care)
 
 ### Interview 4:
-**Summary**: 
+**Summary**: The interviewee is a gamer with a preference for games that offer a mix of challenge and enjoyment. They appreciate a well-crafted 2D sidescroller with attention to detail in gameplay and visuals. While they aren't a hardcore speedrunner, they appreciate the option to compete on leaderboards. Additionally, they value a game that balances accessibility for casual players and depth for serious gamers.
 
-**Interviewer**: 
-**Interviewee**: 
-**When**: 
-**Consumer Segments**: 
+**Interviewer**: Jack Watson
+**Interviewee**: Imogen Benton
+**When**: 09/17/2023
+**Consumer Segments**: Casual gamer, appreciates challenging gameplay
 
 #### Key insights
-
+- Enjoys competitive aspects like leaderboards but isn't a hardcore speedrunner.
+- Appreciates games with attention to detail in both gameplay and visuals.
+- Likes the idea of in-game rewards or achievements for completing challenges.
+- Believes that a game should cater to both casual and serious gamers.
 
 #### Representative quotes
-
+1. "I'm not into the whole speedrunning thing, but it's cool to see where you stand on the leaderboards."
+2. "A game should feel polished. Smooth controls, visually appealing, and enjoyable."
+3. "I like when games give you something extra for completing tough challenges. Rewards are very important."
 
 #### Hypotheses that were validated
-
+- Leaderboards add a competitive element even for non-speedrunners.
+- Attention to detail in both gameplay and visuals is essential.
+- Rewarding challenges with in-game achievements or rewards is a plus.
+- Balancing accessibility for casual players and depth for serious gamers is a key consideration.
 
 #### Assessment: Must have / Nice to have / Don’t care
-
+- Competitive Leaderboards (Nice to have)
+- Polished Gameplay and Visuals (Must have)
+- Rewarding Challenges/Achievements (Nice to have)
+- Balance of Accessibility and Depth (Must have)
+- Enemies (Don't care)
 
 ### Interview 5:
 **Summary**: 
