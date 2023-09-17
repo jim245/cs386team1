@@ -4,8 +4,8 @@ Date and location: Sep 15, 2023 <br>
 Group Members: Andrew Angus, Colin MacDonald, Jack Watson, Jade Meskill and Zach Trusso <br>
 
 ## 1. Introduction
-Go Forth and explore this 2D world! It is a 2D sidescroller set in the medival period. You are tasked by the king to explore a dangerous area and collect relics to bring back to the kingdom. Speedrun your way to the end of levels or take time to explore your surrondings and obtain powerups to assist you on your journey. 
-This is a risk and reward style speedruning 2d sidescroller! Will you perfectly execute your run to the end or opt to acquire special powers to help you later on? Do what you think will bring you the best scores and become No.1 on the leaderboard! We are aiming to create a unique artstyle to complement the gameplay and in future iterations we hope to expand the lore surrounding the characters.
+Go Forth and explore this 2D world! It is a 2D sidescroller set in the medieval period. You are tasked by the king to explore a dangerous area and collect relics to bring back to the kingdom. Speedrun your way to the end of levels or take time to explore your surroundings and obtain powerups to assist you on your journey. 
+This is a risk-and-reward style speedrunning 2d sidescroller! Will you perfectly execute your run to the end or opt to acquire special powers to help you later on? Do what you think will bring you the best scores and become No.1 on the leaderboard! We are aiming to create a unique art style to complement the gameplay and in future iterations, we hope to expand the lore surrounding the characters.
 
 ## 2. Initial value proposition and consumer segments
 ### IVP:
@@ -78,24 +78,31 @@ Go Forth will a fun, challenging speedrun focused 2D sidescroller which engage u
 - Enemies (Don't care)
 
 ### Interview 3:
-**Summary**: 
+**Summary**: The interviewee is a casual gamer who doesn't have a lot of experience with 2d sidescrollers. The most important thing for them is to be able to get
+all the collectibles in the game. They would also be interested if the game has more story.
 
-**Interviewer**: 
-**Interviewee**: 
-**When**: 
-**Consumer Segments**: 
+**Interviewer**: Zach Trusso <br>
+**Interviewee**: Aidan Dow <br>
+**When**: 9/17/23 <br>
+**Consumer Segments**: Causal gamer
 
 #### Key insights
-
+- Wants placeable checkpoints, can go back to anywhere in the level
+- Enemies/ traps to make levels more interesting
 
 #### Representative quotes
-
+- "I hate pay to win games, you should buy the game and actually play it to beat it"
+- "It would be cool if the game started in the modern day and each level went back in time"
 
 #### Hypotheses that were validated
-
+- Checkpoints make the game welcoming to casuals
+- Collectibles make the game replayable
 
 #### Assessment: Must have / Nice to have / Don’t care
-
+- Enemies (must have)
+- Leaderboard (nice to have)
+- Collectibles (must have)
+- Cosmetics (don't care)
 
 ### Interview 4:
 **Summary**: 
