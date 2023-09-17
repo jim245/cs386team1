@@ -139,22 +139,31 @@ all the collectibles in the game. They would also be interested if the game has 
 ### Interview 5:
 **Summary**: 
 
-**Interviewer**: 
-**Interviewee**: 
-**When**: 
-**Consumer Segments**: 
+**Interviewer**: Jade Meskill <br>
+**Interviewee**: Ashlyn Moore <br>
+**When**: 09/17/2023
+**Consumer Segments**: Casual gamer, likes platformers <br>
 
 #### Key insights
-
+- Enjoys casual play on a console
+- Likes the idea of a leaderboard however
+- In-game rewards are fun
 
 #### Representative quotes
-
+1. "I like playing a casual game that can be infuriatingly difficult at times"
+2. "The console controls really appeal to me, but that means it must be forgiving enough to allow for them"
+3. "The idea of comparing myself to others who've played the game is nice, as long as its not too in my face"
 
 #### Hypotheses that were validated
-
+- Controls are above all else
+- Difficulty is important, even to casual gamers
+- A leaderboard is nice to have, as long as it's not the focal point
 
 #### Assessment: Must have / Nice to have / Don’t care
-
+- Difficulty Settings (Must Have)
+- Forgiving, polished controls (Must Have)
+- Leaderboard (Nice to Have)
+- Rewards (Nice to Have)
 
 ### Interview 6:
 **Summary**: 
