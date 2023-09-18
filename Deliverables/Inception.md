@@ -140,7 +140,7 @@ all the collectibles in the game. They would also be interested if the game has 
 
 **Interviewer**: Jade Meskill <br>
 **Interviewee**: Ashlyn Moore <br>
-**When**: 09/17/2023
+**When**: 09/17/2023 <br>
 **Consumer Segments**: Casual gamer, likes platformers <br>
 
 #### Key insights
