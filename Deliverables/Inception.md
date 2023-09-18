@@ -18,9 +18,8 @@ Go Forth will a fun, challenging speedrun focused 2D sidescroller which engage u
 - Casual gamers
 - Serious gamers
 - Speedrunners
-- Teachers (for in class teaching purposes)
 - Retro game fans
-- Parents
+- Non-gamers
 
 ## 3. Interviews summary
 
@@ -166,6 +165,36 @@ all the collectibles in the game. They would also be interested if the game has 
 - Rewards (Nice to Have)
 
 ### Interview 6:
+**Summary**: The interviewee is a non-gamer with limited experience in video games, especially 2D sidescrollers. They have a casual interest in games but haven't played them extensively. They prefer easy gameplay, a straightforward storyline, and minimal difficulty.
+
+**Interviewer**: Jack Watson
+**Interviewee**: Ignacio Suarez
+**When**: 09/17/2023
+**Consumer Segments**: Non-gamer
+
+#### Key insights
+- Limited gaming experience.
+- Values easy-to-understand gameplay over complex mechanics.
+- A straightforward storyline is preferred over intricate narratives.
+- Open to trying games if they are simple and enjoyable.
+
+#### Representative quotes
+1. "I don't really game a lot, sometimes I play simple games."
+2. "I don't need a big, fancy story. Something simple and fun would be more for me."
+3. "If it's easy to pick up and play, I might actually enjoy it."
+
+#### Hypotheses that were validated
+- Simplicity and ease of gameplay are crucial for non-gamers.
+- Non-gamers may prefer straightforward storylines over complex narratives.
+- Openness to trying games if they offer a simple and enjoyable experience.
+
+#### Assessment: Must have / Nice to have / Don’t care
+- Simple Gameplay (Must have)
+- Straightforward Storyline (Nice to have)
+- Minimal Complexity (Must have)
+- Easy to Pick Up and Play (Must have)
+
+### Interview 7:
 **Summary**: 
 
 **Interviewer**: 
