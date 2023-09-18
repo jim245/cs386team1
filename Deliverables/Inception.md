@@ -167,10 +167,10 @@ all the collectibles in the game. They would also be interested if the game has 
 ### Interview 6:
 **Summary**: The interviewee is a non-gamer with limited experience in video games, especially 2D sidescrollers. They have a casual interest in games but haven't played them extensively. They prefer easy gameplay, a straightforward storyline, and minimal difficulty.
 
-**Interviewer**: Jack Watson
-**Interviewee**: Ignacio Suarez
-**When**: 09/17/2023
-**Consumer Segments**: Non-gamer
+**Interviewer**: Jack Watson <br>
+**Interviewee**: Ignacio Suarez <br>
+**When**: 09/17/2023 <br>
+**Consumer Segments**: Non-gamer <br>
 
 #### Key insights
 - Limited gaming experience.
