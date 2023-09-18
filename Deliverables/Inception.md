@@ -195,24 +195,31 @@ all the collectibles in the game. They would also be interested if the game has 
 - Easy to Pick Up and Play (Must have)
 
 ### Interview 7:
-**Summary**: 
+**Summary**: The interviewee was briefed on the game summary. He doesn't play a lot of games but is familiar enough with them.
 
-**Interviewer**: 
-**Interviewee**: 
-**When**: 
-**Consumer Segments**: 
+**Interviewer**: Colin MacDonald  
+**Interviewee**: Ethan Stojanowski
+**When**: 9/17/23
+**Consumer Segments**: Light/Casual Gamer
 
 #### Key insights
-
+-Limited gaming experience
+-Values competition
+-Mixed feelings on difficulty sliders
 
 #### Representative quotes
-
+"For 2d games I don't care about fancy art styles, I prefer it to be simpler" 
+"If it is only hp and checkpoints, difficulty sliders aren't needed"
+"Easter eggs would be really cool, things that arent a part of the main game"
 
 #### Hypotheses that were validated
-
+-Low skill floor and cieling is a good trait to have
+-There's value in pure platformers without enemies and focus purely on movement
 
 #### Assessment: Must have / Nice to have / Don’t care
-
+Lore (Nice to have) 
+Mechanic Diversity (Nice to have) 
+Fancy artstyle for 2d (Don't care) 
 
 ## 4. Final value proposition and consumer segments
 **Final Value Proposition:**
