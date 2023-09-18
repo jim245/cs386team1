@@ -136,7 +136,7 @@ all the collectibles in the game. They would also be interested if the game has 
 - Enemies (Don't care)
 
 ### Interview 5:
-**Summary**: 
+**Summary**: Interviewee is a very casual gamer, only playing simple games, usually with friends. Appreciates platformers, but doesn't play them exclusively.
 
 **Interviewer**: Jade Meskill <br>
 **Interviewee**: Ashlyn Moore <br>
@@ -197,32 +197,38 @@ all the collectibles in the game. They would also be interested if the game has 
 ### Interview 7:
 **Summary**: The interviewee was briefed on the game summary. He doesn't play a lot of games but is familiar enough with them.
 
-**Interviewer**: Colin MacDonald  
-**Interviewee**: Ethan Stojanowski
-**When**: 9/17/23
-**Consumer Segments**: Light/Casual Gamer
+**Interviewer**: Colin MacDonald <br>
+**Interviewee**: Ethan Stojanowski <br>
+**When**: 9/17/23 <br>
+**Consumer Segments**: Light/Casual Gamer <br>
 
 #### Key insights
--Limited gaming experience
--Values competition
--Mixed feelings on difficulty sliders
+-Limited gaming experience <br>
+-Values competition <br>
+-Mixed feelings on difficulty sliders <br>
 
 #### Representative quotes
-"For 2d games I don't care about fancy art styles, I prefer it to be simpler" 
-"If it is only hp and checkpoints, difficulty sliders aren't needed"
-"Easter eggs would be really cool, things that arent a part of the main game"
+"For 2d games I don't care about fancy art styles, I prefer it to be simpler" <br>
+"If it is only hp and checkpoints, difficulty sliders aren't needed" <br>
+"Easter eggs would be really cool, things that arent a part of the main game" <br>
 
 #### Hypotheses that were validated
--Low skill floor and cieling is a good trait to have
--There's value in pure platformers without enemies and focus purely on movement
+-Low skill floor and ceiling is a good trait to have <br>
+-There's value in pure platformers without enemies and focus purely on movement <br>
 
 #### Assessment: Must have / Nice to have / Don’t care
-Lore (Nice to have) 
-Mechanic Diversity (Nice to have) 
-Fancy artstyle for 2d (Don't care) 
+Lore (Nice to have) <br>
+Mechanic Diversity (Nice to have) <br>
+Fancy artstyle for 2d (Don't care) <br>
 
 ## 4. Final value proposition and consumer segments
 **Final Value Proposition:**
+A game with a range of difficulties, smooth gameplay, and simple controls. An online leaderboard to compare yourself to others and some rewards to earn in game.
 
 **Consumer segments:**
+- Generally 18-21 <br>
+- Gamers, both casual and serious <br>
+- Platformer enjoyers <br>
+- Retro fans <br>
+- Some non-gamers <br>
 
