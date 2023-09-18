@@ -203,9 +203,9 @@ all the collectibles in the game. They would also be interested if the game has 
 **Consumer Segments**: Light/Casual Gamer <br>
 
 #### Key insights
--Limited gaming experience <br>
--Values competition <br>
--Mixed feelings on difficulty sliders <br>
+- Limited gaming experience <br>
+- Values competition <br>
+- Mixed feelings on difficulty sliders <br>
 
 #### Representative quotes
 "For 2d games I don't care about fancy art styles, I prefer it to be simpler" <br>
@@ -213,8 +213,8 @@ all the collectibles in the game. They would also be interested if the game has 
 "Easter eggs would be really cool, things that arent a part of the main game" <br>
 
 #### Hypotheses that were validated
--Low skill floor and ceiling is a good trait to have <br>
--There's value in pure platformers without enemies and focus purely on movement <br>
+- Low skill floor and ceiling is a good trait to have <br>
+- There's value in pure platformers without enemies and focus purely on movement <br>
 
 #### Assessment: Must have / Nice to have / Don’t care
 Lore (Nice to have) <br>
