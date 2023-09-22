@@ -6,8 +6,8 @@ Missing participants: None <br>
 Project repo: [GITHUB REPO](https://github.com/jim245/cs386team1/tree/main) <br>
 
 # 1. Summary of Activities
-Discusses sharing Unity accounts. <br>
-Discusses software development life cycle models. <br>
+Discussed sharing Unity accounts. <br>
+Discussed software development life cycle models. <br>
 Started working on initial art assets. <br>
 
 # 2. Project Retrospective
@@ -18,4 +18,4 @@ Started working on initial art assets. <br>
 5. What we should try next time: Have some code done.
 
 # 3. Next Steps
-Get a game file going, with simple movement and physics. Learn basic Unity, and create the game files.
+Create basic art assets. Get a game file going, with simple movement and physics. Learn basic Unity, and create the game files.
