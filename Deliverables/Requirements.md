@@ -2,7 +2,7 @@
 
 ## 1. Positioning
 
-**Problem Statement**
+**Problem Statement**<br>
 The problem of [  ] affects [ stakeholders] the impact of which [impact of problem/cost]
 
 ## 2. Stakeholders
