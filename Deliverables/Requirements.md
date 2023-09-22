@@ -2,6 +2,9 @@
 
 ## 1. Positioning
 
+**Problem Statement**
+The problem of [  ] affects [ stakeholders] the impact of which [impact of problem/cost]
+
 ## 2. Stakeholders
 
 ## 3. Functional requirements (features)
