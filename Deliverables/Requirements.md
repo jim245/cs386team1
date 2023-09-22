@@ -3,9 +3,13 @@
 ## 1. Positioning
 
 **Problem Statement**  <br>
-The problem of boredom affects many people around the globe, even on an hourly basis. Our game will play a part of helping alleviate boredom with engaging competitive gameplay with a race to the leaderboard.
+The problem of boredom affects casual and competitive gamers, and big publishers around the globe, even on an hourly basis. Our game will play a part of helping alleviate boredom with engaging competitive gameplay with a race to the leaderboard.
 
 ## 2. Stakeholders
+- Causal gamers- targeted to combat boredom
+- Competitive gamers- targeted for leaderboard
+- Big publisher
+- Potential Investors
 
 ## 3. Functional requirements (features)
 
