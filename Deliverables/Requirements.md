@@ -3,7 +3,7 @@
 ## 1. Positioning
 
 **Problem Statement**  <br>
-The problem of [  ] affects [ stakeholders] the impact of which [impact of problem/cost]
+The problem of boredom affects many people around the globe on even an hourly basis. Our game will play a part of helping alleviate with engaging competitive gameplay with a race to the leaderboard.
 
 ## 2. Stakeholders
 
