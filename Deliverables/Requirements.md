@@ -7,7 +7,7 @@ The problem of boredom affects casual and competitive gamers, and big publishers
 
 ## 2. Stakeholders
 - Causal gamers- targeted to combat boredom
-- Competitive gamers- targeted for leaderboard
+- Competitive gamers- targeted for leaderboard and for fun challenging game
 - Big publisher- once we finish developing we need someone in charge of releasing the game
 - Potential Investors- we will need investors to back the game, so we can add all the necessary features
 
