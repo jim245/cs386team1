@@ -6,9 +6,9 @@ Missing participants: None <br>
 Project repo: [GITHUB REPO](https://github.com/jim245/cs386team1/tree/main) <br>
 
 # 1. Summary of Activities
-Get a basic framework of the game. <br>
-Get a few basic objects built into the game. <br>
-Complete 1st deliverable. <br>
+Discusses sharing Unity accounts. <br>
+Discusses software development life cycle models. <br>
+Started working on initial art assets. <br>
 
 # 2. Project Retrospective
 After the initial meeting, we have begun to learn the unity skills required and we are now implementing the first iterations of some basic game objects.
