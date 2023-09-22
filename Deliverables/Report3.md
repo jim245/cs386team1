@@ -11,13 +11,11 @@ Discusses software development life cycle models. <br>
 Started working on initial art assets. <br>
 
 # 2. Project Retrospective
-After the initial meeting, we have begun to learn the unity skills required and we are now implementing the first iterations of some basic game objects.
-
-1. Appreciations: Everyone got the basics done, installing Unity, etc.. 
-2. Successes: Successfully communicated outside of class to perform some tasks.
+1. Appreciations: Everyone made it to the meeting.
+2. Successes: Everyone is ready to start using Unity.
 3. Failures: N/A
-4. Barriers: Inconsistency of communication, missing team members.
-5. What we should try next time: Get everyone together physically, pool knowledge.
+4. Barriers: Unity teams only allow 3 people.
+5. What we should try next time: Have some code done.
 
 # 3. Next Steps
 Get a game file going, with simple movement and physics. Learn basic Unity, and create the game files.
