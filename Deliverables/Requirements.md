@@ -6,7 +6,7 @@
 The problem of boredom affects casual and competitive gamers, and big publishers around the globe, even on an hourly basis. Our game will play a part of helping alleviate boredom with engaging competitive gameplay with a race to the leaderboard.
 
 **Product Position Statement**
-For gamers who are siting at their computers bored out of their minds, *Come Forth!* is a game that has 2d platforming that has engaging competitive gameplay with a leaderboard. Unlike most other platformers or games in general, out product has an innate speedrunning leaderboard to test your skills against all other players. 
+For gamers who are siting at their computers bored out of their minds, *Go Forth!* is a game that has 2d platforming that has engaging competitive gameplay with a leaderboard. Unlike most other platformers or games in general, out product has an innate speedrunning leaderboard to test your skills against all other players. 
 
 For
 [target customer]
