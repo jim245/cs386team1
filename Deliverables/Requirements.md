@@ -30,6 +30,21 @@ Example of a product position statement: “For college students who have many p
 - Potential Investors- we will need investors to back the game, so we can add all the necessary features
 
 ## 3. Functional requirements (features)
+1. Multiple levels
+2. Checkpoints in levels
+3. Fluid player movement
+4. Traps and/or enemies
+5. Leaderboard
+6. Different difficulties
+7. Power-ups
+8. Accessibility options
+9. Achievements
+10. Music
+11. Sound effects
+12. Secret areas/levels
+13. Collectibles
+14. Cosmetics
+15. Different themes for each level
 
 ## 4. Non-functional requirements
 
