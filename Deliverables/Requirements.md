@@ -62,30 +62,30 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
 ## 6. Use cases
 ![image](https://github.com/jim245/cs386team1/assets/101908863/3b1ee449-d01f-443e-a432-b93de6415228)
 
-1. Use Case: Play the game
-   Actor: Casual gamer
-   Trigger: Casual gamer wants to have fun
-   Pre-conditions: Casual gamer is able to beat the first level
-   Post-conditions: 
-   Success Scenario:
-    1. 
-    2. 
-    3. 
-   Alternate Scenario:
-    1. 
+1. Use Case: Play the game <br>
+   Actor: Casual gamer <br>
+   Trigger: Casual gamer wants to have fun <br>
+   Pre-conditions: Casual gamer is able to beat the first level <br>
+   Post-conditions: <br>
+   Success Scenario: <br>
+    1. <br>
+    2. <br>
+    3. <br>
+   Alternate Scenario: <br>
+    1. <br>
   
-2. Use Case: Use leaderboard
-   Actor: Competitive Gamer
-   Trigger: Competitive gamer wants to compete for fast times
-   Pre-conditions: Competitive gamer beats the game once
-   Post-conditions: 
-   Success Scenario:
-    1. 
-    2. 
-    3. 
-   Alternate Scenario:
-    1. 
-    2. 
+2. Use Case: Use leaderboard <br>
+   Actor: Competitive Gamer <br>
+   Trigger: Competitive gamer wants to compete for fast times <br>
+   Pre-conditions: Competitive gamer beats the game once <br>
+   Post-conditions: Competitive gamer's time is scored <br>
+   Success Scenario: <br>
+    1. Competitive gamer plays game <br>
+    2. Competitive gamer beats game <br>
+    3. Time and score are recorded on leaderboard <br>
+   Alternate Scenario: <br>
+    1. Competitive beats game offline <br>
+    2. Score is not sent to online leaderboard <br>
 
 ## 7. User stories
 - As a casual gamer, I want checkpoints in levels so that I can play the game less intensively.
