@@ -60,6 +60,8 @@ Example of a product position statement: “For college students who have many p
 A game where you can move in a 2d plane with a camera that moves with you. You can die when stepping on certain objects and get thrown back to the last spawnpoint.
 
 ## 6. Use cases
+![image](https://github.com/jim245/cs386team1/assets/101908863/3b1ee449-d01f-443e-a432-b93de6415228)
+
 
 ## 7. User stories
 - As a casual gamer, I want checkpoints in levels so that I can play the game less intensively.
