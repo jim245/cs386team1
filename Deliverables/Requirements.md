@@ -74,3 +74,5 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
 - As someone who appreciates level design, I want a variety of levels to play, so that I can enjoy the game in many different environments.
 
 ## 8. Issue Tracker
+https://github.com/jim245/cs386team1/issues
+<img width="928" alt="Screenshot 2023-09-29 142309" src="https://github.com/jim245/cs386team1/assets/102260172/5e65b5bd-20e9-4ac8-b5e6-13ab861bb84d">
