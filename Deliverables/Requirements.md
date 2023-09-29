@@ -54,5 +54,7 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
 ## 6. Use cases
 
 ## 7. User stories
+- As a casual gamer, I want checkpoints in levels so that I can play the game less intensively.
+- As a speedrunner, I want a leaderboard so that I can compare my times with other people.
 
 ## 8. Issue Tracker
