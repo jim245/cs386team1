@@ -68,5 +68,7 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
 - As a non-gamer, I want a keybind menu so I can know what buttons to press and change them if I need to.
 - As a colorblind gamer, I want a colorblind accessibility mode, so I can enjoy the game like everyone else.
 - As a competitive gamer, I want there to be enemies, so the game is more interactive and challenging.
+- As a console player, I want to be able to use a controller on PC, so that I can play like I normally do.
+- As someone who appreciates level design, I want a variety of levels to play, so that I can enjoy the game in many different environments.
 
 ## 8. Issue Tracker
