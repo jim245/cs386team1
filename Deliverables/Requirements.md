@@ -62,7 +62,18 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
 ## 6. Use cases
 ![image](https://github.com/jim245/cs386team1/assets/101908863/3b1ee449-d01f-443e-a432-b93de6415228)
 
-As a potential investor, I want to know the estimated cost of the game and how long the development will take, so I know if the game will be successful and worth my investment.
+1. Use Case: Play the game
+   Actor: Casual gamer
+   Trigger: Casual gamer wants to have fun
+   Pre-conditions: Casual gamer is able to beat the first level
+   Post-conditions: 
+   Success Scenario:
+    1. 
+    2. 
+    3. 
+   Alternate Scenario:
+    1. 
+    2. 
 
 ## 7. User stories
 - As a casual gamer, I want checkpoints in levels so that I can play the game less intensively.
