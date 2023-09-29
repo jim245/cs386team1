@@ -49,6 +49,7 @@ Example of a product position statement: “For college students who have many p
 ## 4. Non-functional requirements
 
 ## 5. Minimum Viable Product
+A game where you can move in a 2d plane with a camera that moves with you. You can die when stepping on certain objects and get thrown back to the last spawnpoint.
 
 ## 6. Use cases
 
