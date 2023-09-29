@@ -47,14 +47,14 @@ Example of a product position statement: “For college students who have many p
 15. Different themes for each level
 
 ## 4. Non-functional requirements
-1. Difficulty sliders
-2. Colorblind accessbility option
-3. Mobile port
-4. Controller support
-5. Frame rate
-6. Monetization(skins)
-7. Storage requirements
-8. Loading times
+1. Difficulty sliders- Ensure that players can adjust the game's difficulty level to match their skill
+2. Colorblind accessbility option- Enable players with colorblindness to play the game comfortably
+3. Mobile port- Make the game available and functional on mobile platforms
+4. Controller support- Provide an alternative control method for players who prefer controllers
+5. Frame rate- Maintain a consistent frame rate to ensure smooth gameplay
+6. Monetization(skins)- Generate revenue through in-game purchases without compromising the player's experience
+7. Storage requirements- Manage the game's storage space efficiently
+8. Loading times- Minimize loading times to enhance the player's experience
 
 ## 5. Minimum Viable Product
 A game where you can move in a 2d plane with a camera that moves with you. You can die when stepping on certain objects and get thrown back to the last spawnpoint.
