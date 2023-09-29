@@ -73,6 +73,18 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
     3. 
    Alternate Scenario:
     1. 
+  
+2. Use Case: Use leaderboard
+   Actor: Competitive Gamer
+   Trigger: Competitive gamer wants to compete for fast times
+   Pre-conditions: Competitive gamer beats the game once
+   Post-conditions: 
+   Success Scenario:
+    1. 
+    2. 
+    3. 
+   Alternate Scenario:
+    1. 
     2. 
 
 ## 7. User stories
