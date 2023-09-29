@@ -66,5 +66,7 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
 - As a speedrunner, I want a leaderboard so that I can compare my times with other people.
 - As a gamer, I want power ups to make the gameplay more interactive
 - As a non-gamer, I want a keybind menu so I can know what buttons to press and change them if I need to.
+- As a colorblind gamer, I want a colorblind accessibility mode, so I can enjoy the game like everyone else.
+- As a competitive gamer, I want there to be enemies, so the game is more interactive and challenging.
 
 ## 8. Issue Tracker
