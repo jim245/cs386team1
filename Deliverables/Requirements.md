@@ -65,12 +65,12 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
 1. Use Case: Play the game <br>
    Actor: Casual gamer <br>
    Trigger: Casual gamer wants to have fun <br>
-   Pre-conditions: Casual gamer is able to beat the first level <br>
-   Post-conditions: <br>
+   Pre-conditions: Casual gamer has the game installed<br>
+   Post-conditions: Player completes level
    Success Scenario: <br>
-    1. <br>
-    2. <br>
-    3. <br>
+    1. Open game
+    2. Start game
+    3. Play game
    Alternate Scenario: <br>
     1. <br>
   
@@ -86,6 +86,19 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
    Alternate Scenario: <br>
     1. Competitive beats game offline <br>
     2. Score is not sent to online leaderboard <br>
+
+3. Use Case: Obtain powerup <br>
+   Actor: Player <br>
+   Trigger: Player wants to use powerups <br>
+   Pre-conditions: Player has the game installed <br>
+   Post-conditions: Player obtains a powerup <br>
+   Success Scenario: <br>
+    1. Player opens game <br>
+    2. Player searches for the powerup triggers <br>
+    3. Play obtains all triggers and gets powerup<br>
+   Alternate Scenario: <br>
+    1. Player misses powerup trigger <br>
+    2. Player does not obtain powerup <br>
 
 ## 7. User stories
 - As a casual gamer, I want checkpoints in levels so that I can play the game less intensively.
