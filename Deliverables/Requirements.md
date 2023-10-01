@@ -115,6 +115,21 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
       3. Player quits and refunds the game <br>
       4. Big publisher loses sales <br>
 
+5. Use Case: Difficulty Options In-game <br>
+   Actor: Casual Gamer <br>
+   Trigger: Casual gamers require an easier difficulty than competitive ones. <br>
+   Pre-Conditions: Certain players cannot play the game at a high difficulty. <br>
+   Post-Conditions: The change in difficulty increases playability. <br>
+   Success Scenario: <br>
+      1. A player begins the game, and plays a few levels, noting a certain difficulty level. <br>
+      2. They look in the settings, find the difficulty option, and change it. <br>
+      3. The game doesn't lose a player because of a difficulty roadblock. <br>
+   Alternate Scenario: <br>
+      1. A player begins the game, and detects a high difficulty level. <br>
+      2. They have trouble or do not look for the difficulty setting. <br>
+      3. They quit due to the difficulty level being too high. <br>
+      4. The game loses casual players. <br>
+
 ## 7. User stories
 - As a casual gamer, I want checkpoints in levels so that I can play the game less intensively.
 - As a speedrunner, I want a leaderboard so that I can compare my times with other people.
