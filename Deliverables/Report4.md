@@ -18,4 +18,4 @@ Finished initial required art assets. <br>
 5. What we should try next time: Have some code done.
 
 # 3. Next Steps
-Get a game file going, with simple movement and physics. Learn basic Unity, and create the game files.
+Develop a simple game, with basic movement and physics. Continue to learn the mechanics of Unity.
