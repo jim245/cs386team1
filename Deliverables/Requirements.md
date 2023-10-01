@@ -100,6 +100,21 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
     1. Player misses powerup trigger <br>
     2. Player does not obtain powerup <br>
 
+4. Use Case: Have Colorblind Accessibility In Game <br>
+   Actor: Big Publisher <br>
+   Trigger: Publisher needs their games to have accessibility features <br>
+   Pre-Conditions: There are players who have colorblindness <br>
+   Post-Conditions: Big Publisher makes the game accessible to everyone <br>
+   Success Scenario: <br>
+   1. A player starts the game and goes into the accessibility menu <br>
+   2. They see a colorblind option and turn it on <br>
+   3. Big publisher gets more sales because the game is accessible to more people <br>
+   Alternate Scenario: <br>
+   1. Player goes into the accessibility menu <br>
+   2. Player doesn't see a colorblindness option <br>
+   3. Player quits and refunds the game <br>
+   4. Big publisher loses sales <br>
+
 ## 7. User stories
 - As a casual gamer, I want checkpoints in levels so that I can play the game less intensively.
 - As a speedrunner, I want a leaderboard so that I can compare my times with other people.
