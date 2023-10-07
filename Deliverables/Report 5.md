@@ -6,7 +6,7 @@ Missing participants: <br>
 Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of activities
-Each member reports on their activities since the last meeting. Remember that coding activity is expected every week. <br>
+Colin - I am reviewing the material once over and solidifying my knowledge on Unity. Additionally, filling out the project more. <br>
 
 ## 2. Project retrospective
 In each meeting, you should spend a few minutes discussing how the group is functioning. What aspects of the group dynamics contribute to the success of the project? In addition, raise any issues—best done directly but with humor and kindness—that you believe are interfering with the effectiveness of the group and your ability to complete the project on time. <br>
