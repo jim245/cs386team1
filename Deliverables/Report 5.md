@@ -1,7 +1,7 @@
 # Report for Week 5 Meeting
 Group 1: Go Forth! <br>
 Date and location: 09/07/2023, Discord <br>
-Present participants: Jade (Manager) <br>
+Present participants: Jade (Manager), Colin(Quality) <br>
 Missing participants: <br>
 Project repo: https://github.com/jim245/cs386team1 <br>
 
