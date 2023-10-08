@@ -15,7 +15,7 @@ Zach - I am learning more about Unity, and also updating the activity tracker. <
   2. Successes: Unity working, was really struggling on how to fix a certain issue. <br>
   3. Failures: A couple team members were not available this weekend so the meeting did not really happen. <br>
   4. Barriers: People being sick and out of town causing communication problems. <br>
-  5. Talking to everyone more in class <br>
+  5. What we should try next time: Talking to everyone more in class. Work on the first release. <br>
 
 ## 3. Next steps
 We need to work really hard on the game to get it actually running in preperation for the first iteration delivarable and midterm presentation. 
