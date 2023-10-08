@@ -2,12 +2,13 @@
 Group 1: Go Forth! <br>
 Date and location: 10/07/2023, Discord <br>
 Present participants: Jade (Manager), Colin(Quality) <br>
-Missing participants: Andrew Angus (Excused, working on report after meeting) <br>
+Missing participants: Andrew Angus (Excused, working on report after meeting), Zach <br>
 Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of activities
 Colin - I am reviewing the material once over and solidifying my knowledge on Unity. Additionally, filling out the project more. <br>
 Andrew - Added ability to collaborate on GitHub through my local Unity installations. Also started using Unity to figure out how things can be implemented such as our pixel art and the character. <br>
+Zach - I am learning more about Unity, and also updating the activity tracker. <br>
 
 ## 2. Project retrospective
 In each meeting, you should spend a few minutes discussing how the group is functioning. What aspects of the group dynamics contribute to the success of the project? In addition, raise any issues—best done directly but with humor and kindness—that you believe are interfering with the effectiveness of the group and your ability to complete the project on time. <br>
