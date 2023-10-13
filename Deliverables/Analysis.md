@@ -7,3 +7,13 @@ Product Position Statement <br>
 For gamers who are siting at their computers bored out of their minds, Go Forth! is a game centered around 2d platforming that has engaging competitive gameplay with a leaderboard. Unlike most other platformers or games in general, out product has an innate speedrunning leaderboard to test your skills against all other players. <br>
 
 
+## Classes
+- Player
+- Platform
+	- Moving platform
+	- Obstacles
+- Collectables
+	- Power-ups
+	- Coins
+- Block entity
+- Leaderboard
