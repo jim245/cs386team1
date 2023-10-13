@@ -5,15 +5,17 @@
 **Problem Statement**  <br>
 The problem of boring level design and sluggish gameplay affects casual gamers and serious gamers alike, the impact of which is
 games being unable to retain a playerbase and gamers being unwilling to invest time in the game to compete for high scores.
+(Needs solution??)
 
 **Product Position Statement** <br>
 For gamers who are siting at their computers bored out of their minds, *Go Forth!* is a game centered around 2d platforming that has engaging competitive gameplay with a leaderboard. Unlike most other platformers or games in general, out product has an innate speedrunning leaderboard to test your skills against all other players. 
 
 ## 2. Stakeholders
-- Causal gamers- targeted to combat boredom
+- Casual gamers- targeted to combat boredom
 - Competitive gamers- targeted for leaderboard and for fun challenging game
-- Big publisher- once we finish developing we need someone in charge of releasing the game
+- Publisher- once we finish developing we need someone in charge of releasing the game
 - Potential Investors- we will need investors to back the game, so we can add all the necessary features
+(Try to get subsections of gaming marker?)
 
 ## 3. Functional requirements (features)
 1. Multiple levels
@@ -44,6 +46,8 @@ For gamers who are siting at their computers bored out of their minds, *Go Forth
 
 ## 5. Minimum Viable Product
 A game where you can move in a 2d plane with a camera that moves with you. You can die when stepping on certain objects and get thrown back to the last spawnpoint.
+(Test Plan)
+
 
 ## 6. Use cases
 ![image](https://github.com/jim245/cs386team1/assets/101908863/3b1ee449-d01f-443e-a432-b93de6415228)
@@ -66,9 +70,10 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
    Pre-conditions: Competitive gamer beats the game once <br>
    Post-conditions: Competitive gamer's time is scored <br>
    Success Scenario: <br>
-    1. Competitive gamer plays game <br>
-    2. Competitive gamer beats game <br>
-    3. Time and score are recorded on leaderboard <br>
+    1. Competitive gamer opens game <br>
+    2. Competitive gamer learns game <br>
+    3. Competitive gamer completes game <br>
+    4. Time and score are recorded on leaderboard <br>
    Alternate Scenario: <br>
     1. Competitive beats game offline <br>
     2. Score is not sent to online leaderboard <br>
@@ -86,21 +91,6 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
     1. Player misses powerup trigger <br>
     2. Player does not obtain powerup <br>
 
-4. Use Case: Have Colorblind Accessibility In Game <br>
-   Actor: Big Publisher <br>
-   Trigger: Publisher needs their games to have accessibility features <br>
-   Pre-Conditions: There are players who have colorblindness <br>
-   Post-Conditions: Big Publisher makes the game accessible to everyone <br>
-   Success Scenario: <br>
-      1. A player starts the game and goes into the accessibility menu <br>
-      2. They see a colorblind option and turn it on <br>
-      3. Big publisher gets more sales because the game is accessible to more people <br>
-   Alternate Scenario: <br>
-      1. Player goes into the accessibility menu <br>
-      2. Player doesn't see a colorblindness option <br>
-      3. Player quits and refunds the game <br>
-      4. Big publisher loses sales <br>
-
 5. Use Case: Difficulty Options In-game <br>
    Actor: Casual Gamer <br>
    Trigger: Casual gamers require an easier difficulty than competitive ones. <br>
@@ -115,6 +105,10 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
       2. They have trouble or do not look for the difficulty setting. <br>
       3. They quit due to the difficulty level being too high. <br>
       4. The game loses casual players. <br>
+(Apparently this one is bad because it doesnt specify difficulty settings but it does?)
+
+(Colorblind use case was shit, so I shot it)
+(Alternate scenarios are failures, not actually alternate scenarios apparently)
 
 ## 7. User stories
 - As a casual gamer, I want checkpoints in levels so that I can play the game less intensively.
