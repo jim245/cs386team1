@@ -65,7 +65,7 @@ Welcome to "Go Forth!", an exciting 2D sidescroller adventure set in a medieval 
 
 #### Representative quotes
 - "I think I would play the game if the levels were challenging and there was a satisfying 100%"
-- "I'm not paying for the battlepass."
+- "I'm not paying for the battle pass."
 
 #### Hypotheses that were validated
 - Hidden levels add replayability
