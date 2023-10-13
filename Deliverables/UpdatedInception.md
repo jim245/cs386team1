@@ -186,7 +186,7 @@ all the collectibles in the game. They would also be interested if the game has 
 
 #### Hypotheses that were validated
 - Simplicity and ease of gameplay are crucial for non-gamers.
-- Non-gamers may prefer straightforward storylines over complex narratives.
+- Non-gamers may prefer straightforward storylines to complex narratives.
 - Openness to trying games if they offer a simple and enjoyable experience.
 
 #### Assessment: Must have / Nice to have / Don’t care
