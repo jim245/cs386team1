@@ -16,7 +16,8 @@ Jade – <br>
   1. Appreciations: Everyone working hard on the midterm presentation by revising old deliberables. <br>
   2. Successes: Received good feedback for the first two deliverables. <br>
   3. Failures: None <br>
-  4. Barriers: <br>
-  5. What we should try next time: <br>
+  4. Barriers: None <br>
+  5. What we should try next time: We should have a version of the game ready for the first implementation deliverable. <br>
 
 ## 3. Next steps
+We need to practice for the midterm presentation and then add code for the game. It is important that everyone in the group pulls the latest version of the game and expirements with adding their own contributions. The state of the game for the first implementation does not need to have many features, but a playeable version featuring all of our contributions is important.
