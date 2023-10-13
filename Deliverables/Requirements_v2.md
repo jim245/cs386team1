@@ -3,25 +3,11 @@
 ## 1. Positioning
 
 **Problem Statement**  <br>
-The problem of boredom affects casual and competitive gamers, and big publishers around the globe, even on an hourly basis. Our game will play a part of helping alleviate boredom with engaging competitive gameplay with a race to the leaderboard.
+The problem of boring level design and sluggish gameplay affects casual gamers and serious gamers alike, the impact of which is
+games being unable to retain a playerbase and gamers being unwilling to invest time in the game to compete for high scores.
 
-**Product Position Statement**
-For gamers who are siting at their computers bored out of their minds, *Go Forth!* is a game that has 2d platforming that has engaging competitive gameplay with a leaderboard. Unlike most other platformers or games in general, out product has an innate speedrunning leaderboard to test your skills against all other players. 
-
-For
-[target customer]
-Who
-[statement of the need or opportunity]
-The (product name)
-[product name] is a [product category]
-That
-[statement of key benefit; that is, the compelling reason to buy]
-Unlike
-[primary competitive alternative]
-Our product
-[statement of primary differentiation]
-
-Example of a product position statement: “For college students who have many parallel homework assignments, MyPrioritizationApp is a planning app that crowdsources the identification of complexity and time necessary to accomplish assignments, supporting the informed prioritization; unlike myHomework Student Planner, our product does not rely on the judgment of a student who hasn’t started the homework yet.” Make sure your product position statement is related to your problem.
+**Product Position Statement** <br>
+For gamers who are siting at their computers bored out of their minds, *Go Forth!* is a game centered around 2d platforming that has engaging competitive gameplay with a leaderboard. Unlike most other platformers or games in general, out product has an innate speedrunning leaderboard to test your skills against all other players. 
 
 ## 2. Stakeholders
 - Causal gamers- targeted to combat boredom
