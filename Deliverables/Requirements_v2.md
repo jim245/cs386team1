@@ -39,7 +39,7 @@ For gamers who are siting at their computers bored out of their minds, *Go Forth
 3. Mobile port – Make the game available and functional on mobile platforms
 4. Controller support – Provide an alternative control method for players who prefer controllers
 5. Frame rate – Maintain a consistent frame rate to ensure smooth gameplay
-6. Monetization(skins) – Generate revenue through in-game purchases without compromising the player's experience
+6. Monetization (skins) – Generate revenue through in-game purchases without compromising the player's experience
 7. Storage requirements – Manage the game's storage space efficiently
 8. Loading times – Minimize loading times to enhance the player's experience
 
