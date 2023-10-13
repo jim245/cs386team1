@@ -13,9 +13,9 @@ Jack – <br>
 Jade – <br>
 
 ## 2. Project retrospective
-  1. Appreciations: <br>
-  2. Successes: <br>
-  3. Failures: <br>
+  1. Appreciations: Everyone working hard on the midterm presentation by revising old deliberables. <br>
+  2. Successes: Received good feedback for the first two deliverables. <br>
+  3. Failures: None <br>
   4. Barriers: <br>
   5. What we should try next time: <br>
 
