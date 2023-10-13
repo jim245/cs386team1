@@ -1,8 +1,8 @@
-# Report for Week 5 Meeting
+# Report for Meeting 6
 Group 1: Go Forth! <br>
-Date and location: 10/07/2023, Discord <br>
-Present participants: Jade (Manager), Colin (Quality), Jack (Minute Taker) <br>
-Missing participants: Andrew Angus (Excused, working on report after meeting), Zach <br>
+Date and location: 10/13/2023, Library <br>
+Present participants: Andrew (Quality), Jade (Manager), Colin (Quality), Jack (Minute Taker), Zach (Manager) <br>
+Missing participants: none <br>
 Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of activities
