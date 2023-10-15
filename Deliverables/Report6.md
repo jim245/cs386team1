@@ -6,7 +6,7 @@ Missing participants: none <br>
 Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of activities
-Colin – <br>
+Colin – Updated second delivarable in preperation for the midterm. Additionally working on 3rd deliverable.<br>
 Andrew – Reviewed the requirements deliverable and revised our project's problem statement. Created the problem statement slide for the midterm presentation. Worked on Analysis deliverable. <br>
 Zach –  Worked on Analysis deliverable, reviewed inception deliverable <br>
 Jack – Updated the first deliverable after reviewing the fedback we recieved, so the content is ready to be used in the midterm presentation. Worked on the UML diagram for the analysis deliverable. <br>
