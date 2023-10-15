@@ -10,7 +10,7 @@ Colin – Updated second delivarable in preperation for the midterm. Additionall
 Andrew – Reviewed the requirements deliverable and revised our project's problem statement. Created the problem statement slide for the midterm presentation. Worked on Analysis deliverable. <br>
 Zach –  Worked on Analysis deliverable, reviewed inception deliverable <br>
 Jack – Updated the first deliverable after reviewing the fedback we recieved, so the content is ready to be used in the midterm presentation. Worked on the UML diagram for the analysis deliverable. <br>
-Jade – <br>
+Jade – Updated some issues with the other various deliverables, and started work on the slides for the presentation. <br>
 
 ## 2. Project retrospective
   1. Appreciations: Everyone working hard on the midterm presentation by revising old deliberables. <br>
