@@ -49,7 +49,7 @@ For casual gamers looking for a thrilling experience and serious gamers seeking 
 8. Loading times – Minimize loading times to enhance the player's experience
 
 ## 5. Minimum Viable Product
-A game where you can move in a 2d plane with a camera that moves with you. You can die when stepping on certain objects and get thrown back to the last spawnpoint.
+A game where you can move in a 2d plane with a camera that moves with you. You can die when stepping on certain objects and get thrown back to the last spawn point.
 (Test Plan)
 
 
