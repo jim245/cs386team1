@@ -20,4 +20,4 @@ Jade – Updated some issues with the other various deliverables, and started wo
   5. What we should try next time: We should have a version of the game ready for the first implementation deliverable. <br>
 
 ## 3. Next steps
-We need to practice for the midterm presentation and then add code for the game. It is important that everyone in the group pulls the latest version of the game and experiments with adding their own contributions. The state of the game for the first implementation does not need to have many features, but a playable version featuring all of our contributions is important.
+We need to practice for the midterm presentation and then add code for the game. It is important that everyone in the group pulls the latest version of the game and experiments with adding their own contributions. The state of the game for the first implementation does not need to have many features, but a playable version featuring all of our contributions is essential.
