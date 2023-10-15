@@ -9,4 +9,4 @@ For gamers who are siting at their computers bored out of their minds, Go Forth!
 
 ## Model
 
-![alt text](https://github.com/jim245/cs386team1/blob/main/Deliverable/Analysis UML Diagram.jpg?raw=true)
+![alt text](https://github.com/jim245/cs386team1/blob/main/Deliverable/Analysis%20UML%20Diagram.jpg?raw=true)
