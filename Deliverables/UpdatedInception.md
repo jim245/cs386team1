@@ -6,13 +6,13 @@
 ## 1. Introduction
 ### Addressing a Stale Market in Platformers
 
-Welcome to "Go Forth!", an exciting 2D sidescroller adventure set in a medieval world. In this project, we aim to address the prevalent issue of stagnation in the platformer genre by offering a fresh, exhilarating experience that appeals to a broad range of gamers. We recognize the need for a game that combines challenging gameplay with compelling competition while catering to various player preferences. "Go Forth!" is our solution to this problem.
+Welcome to "Go Forth!", an exciting 2D side-scroller adventure set in a medieval world. In this project, we aim to address the prevalent issue of stagnation in the platformer genre by offering a fresh, exhilarating experience that appeals to a broad range of gamers. We recognize the need for a game that combines challenging gameplay with compelling competition while catering to various player preferences. "Go Forth!" is our solution to this problem.
 
 ## 2. Initial Value Proposition and Consumer Segments
 ### Solving the Stale Platformer Problem
 
 **Initial Value Proposition (IVP):**
-"Go Forth!" presents a novel approach to 2D sidescrollers, offering a fun and challenging experience that engages players through dynamic gameplay and competitive elements.
+"Go Forth!" presents a novel approach to 2D side-scrollers, offering a fun and challenging experience that engages players through dynamic gameplay and competitive elements.
 
 **Consumer Segments:**
 - **Teen Demographic**: Attracting the youth who seek exciting gaming experiences.
@@ -25,7 +25,7 @@ Welcome to "Go Forth!", an exciting 2D sidescroller adventure set in a medieval 
 ## 3. Interviews summary
 
 ### Interview 1:
-**Summary**: Interviewee was interested in a challenging 2d sidescroller with an online leaderboard. They liked the idea of competing for the best time, but also suggested additional rewards for quickness such as unlockable player skins. The interviewee also recommended adjusting the game to accommodate for both casual and serious gamers.
+**Summary**: Interviewee was interested in a challenging 2d side-scroller with an online leaderboard. They liked the idea of competing for the best time, but also suggested additional rewards for quickness such as unlockable player skins. The interviewee also recommended adjusting the game to accommodate for both casual and serious gamers.
 
 **Interviewer**: Andrew Angus <br>
 **Interviewee**: Scottie Freeman <br>
@@ -78,7 +78,7 @@ Welcome to "Go Forth!", an exciting 2D sidescroller adventure set in a medieval 
 - Enemies (Don't care)
 
 ### Interview 3:
-**Summary**: The interviewee is a casual gamer who doesn't have a lot of experience with 2d sidescrollers. The most important thing for them is to be able to get
+**Summary**: The interviewee is a casual gamer who doesn't have a lot of experience with 2d side-scrollers. The most important thing for them is to be able to get
 all the collectibles in the game. They would also be interested if the game has more story.
 
 **Interviewer**: Zach Trusso <br>
@@ -105,7 +105,7 @@ all the collectibles in the game. They would also be interested if the game has 
 - Cosmetics (don't care)
 
 ### Interview 4:
-**Summary**: The interviewee is a gamer with a preference for games that offer a mix of challenge and enjoyment. They appreciate a well-crafted 2D sidescroller with attention to detail in gameplay and visuals. While they aren't a hardcore speedrunner, they appreciate the option to compete on leaderboards. Additionally, they value a game that balances accessibility for casual players and depth for serious gamers.
+**Summary**: The interviewee is a gamer with a preference for games that offer a mix of challenge and enjoyment. They appreciate a well-crafted 2D side-scroller with attention to detail in gameplay and visuals. While they aren't a hardcore speedrunner, they appreciate the option to compete on leaderboards. Additionally, they value a game that balances accessibility for casual players and depth for serious gamers.
 
 **Interviewer**: Jack Watson <br>
 **Interviewee**: Imogen Benton <br>
@@ -152,7 +152,7 @@ all the collectibles in the game. They would also be interested if the game has 
 #### Representative quotes
 1. "I like playing a casual game that can be infuriatingly difficult at times"
 2. "The console controls really appeal to me, but that means it must be forgiving enough to allow for them"
-3. "The idea of comparing myself to others who've played the game is nice, as long as its not too in my face"
+3. "The idea of comparing myself to others who've played the game is nice, as long as it's not too in my face"
 
 #### Hypotheses that were validated
 - Controls are above all else
@@ -166,7 +166,7 @@ all the collectibles in the game. They would also be interested if the game has 
 - Rewards (Nice to Have)
 
 ### Interview 6:
-**Summary**: The interviewee is a non-gamer with limited experience in video games, especially 2D sidescrollers. They have a casual interest in games but haven't played them extensively. They prefer easy gameplay, a straightforward storyline, and minimal difficulty.
+**Summary**: The interviewee is a non-gamer with limited experience in video games, especially 2D side-scrollers. They have a casual interest in games but haven't played them extensively. They prefer easy gameplay, a straightforward storyline, and minimal difficulty.
 
 **Interviewer**: Jack Watson <br>
 **Interviewee**: Ignacio Suarez <br>
