@@ -1,8 +1,8 @@
 # Report for Meeting 6
 Group 1: Go Forth! <br>
 Date and location: 10/13/2023, Library <br>
-Present participants: Andrew (Quality), Jade (Manager), Colin (Quality), Jack (Minute Taker), Zach (Manager) <br>
-Missing participants: none <br>
+Present participants: Andrew (Quality), Colin (Quality), Jack (Minute Taker), Jade (Manager), Zach (Manager) <br>
+Missing participants: N/A <br>
 Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of Activities
