@@ -109,7 +109,7 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
       2. They have trouble or do not look for the difficulty setting. <br>
       3. They quit due to the difficulty level being too high. <br>
       4. The game loses casual players. <br>
-(Apparently this one is bad because it doesnt specify difficulty settings but it does?)
+(Apparently this one is bad because it doesn't specify difficulty settings, but it does?)
 
 (Colorblind use case was shit, so I shot it)
 (Alternate scenarios are failures, not actually alternate scenarios apparently)
@@ -118,7 +118,7 @@ A game where you can move in a 2d plane with a camera that moves with you. You c
 - As a casual gamer, I want checkpoints in levels so that I can play the game less intensively.
 - As a speedrunner, I want a leaderboard so that I can compare my times with other people.
 - As a gamer, I want power ups to make the gameplay more interactive
-- As a non-gamer, I want a keybind menu, so I can know what buttons to press and change them if I need to.
+- As a non-gamer, I want a key bind menu, so I can know what buttons to press and change them if I need to.
 - As a colorblind gamer, I want a colorblind accessibility mode, so I can enjoy the game like everyone else.
 - As a competitive gamer, I want there to be enemies, so the game is more interactive and challenging.
 - As a console player, I want to be able to use a controller on PC, so that I can play like I normally do.
