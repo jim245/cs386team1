@@ -10,17 +10,7 @@ games being unable to retain a playerbase and gamers being unwilling to invest t
 For gamers who are siting at their computers bored out of their minds, *Go Forth!* is a game centered around 2d platforming that has engaging competitive gameplay with a leaderboard. Unlike most other platformers or games in general, our product has an innate speedrunning leaderboard to test your skills against all other players. 
 
 ### Value Proposition
-For gamers looking for a thrilling experience and serious gamers seeking a competitive edge, Go Forth! is a 2D platforming game that offers a lively gameplay experience through its distinct speedrunning leaderboard.
-
-Our product distinguishes itself from other platformers and games by providing a fast-paced and engaging competitive environment where players can choose between useful power-ups or save time while competing for the highest scores. The built in timer and leaderboard enables competition between players and promotes innovation in their playstyle. 
-
-Go forth features a built in leaderboard and timer so players can race to the end of the game the fastest and create new and interesting stratigies. It differs itself from similar games by giving players a choice in the form of out of the way power ups. If you clear a given level with the fastest route possible, you wont be able to claim a power-up thatll help you save time in future levels. 
-
-*Go Forth!* is our unique and enagaing take on a 2D platformer. Our game appeals to the user by featuring a fun and competitive speedrunning aspect, encouraging players to challenge for positions on a leaderboard. To distinguish ourselves from other products, we persued a medieval theme with collectibles such as coins and power-ups presenting a choice for players on how to achieve the fastest time.
-
-The leaderboard and built-in timer promote a fast-paced, engaging environment that encourages competition among players. In-game, players can choose between the quickest route through the level, or the potential for a power-up that will save them time in future levels. This system allows players to pick a playstyle that works best for each individual.
-
-Go Forth! ensures that boredom and sluggish gameplay are replaced with excitement and the motivation to achieve top rankings, ultimately reinvigorating the gaming community and increasing player retention.
+For gamers looking for a thrilling experience and serious gamers seeking a competitive edge, Go Forth! is a 2D platforming game that offers a lively gameplay experience through its distinct speedrunning leaderboard. The leaderboard and built-in timer promote a fast-paced, engaging environment that encourages competition among players. In-game, players can choose between the quickest route through the level, or the potential for a power-up that will save them time in future levels. This system allows players to pick a playstyle that works best for each individual. Go Forth! ensures that boredom and sluggish gameplay are replaced with excitement and the motivation to achieve top rankings, ultimately reinvigorating the gaming community and increasing player retention.
 
 ### Customer Segment
 
