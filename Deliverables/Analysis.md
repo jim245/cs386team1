@@ -8,7 +8,7 @@
 <p>Our game consists of multiple levels in which the player faces various obstacles and hazards while trying to reach the end. The main obstacle that the player encounters is a spike platform that results in the character's death. Another hazard the player encounters is a moving platform, requiring precise reactions and timing in order to reach the level's end unharmed. While maneuvering through the level, the player can contact collectibles such as coins and PowerUps that can potentially result in a faster level completion. Another important feature of the game is checkpoints during a level, giving players the clarity that their progress has been saved.
 </p>
 
-<p>An exhilerating aspect of our game is the existence of a leaderboard. When a user beats a singular level or the game, their time and score is added to the leaderboard, allowing competition between players. Because the game consists of multiple difficulties, only the most skilled and dedicated players will be able to see their name at the top of the leaderboard. 
+<p>An exhilarating aspect of our game is the existence of a leaderboard. When a user beats a singular level or the game, their time and score is added to the leaderboard, allowing competition between players. Because the game consists of multiple difficulties, only the most skilled and dedicated players will be able to see their name at the top of the leaderboard. 
 </p>
 
 ## Model
