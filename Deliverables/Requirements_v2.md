@@ -16,7 +16,7 @@ Our product distinguishes itself from other platformers and games by providing a
 
 Go forth features a built in leaderboard and timer so players can race to the end of the game the fastest and create new and interesting stratigies. It differs itself from similar games by giving players a choice in the form of out of the way power ups. If you clear a given level with the fastest route possible, you wont be able to claim a power-up thatll help you save time in future levels. 
 
-Go Forth is our unique and enagaing take on a 2D platformer. Our game sells itself to the user by featuring a fun and competitive speedrunning aspect, encouraging players to challenge for positions on a leaderboard. To distinguish ourselves from other products, we persued a medieval theme with collectibles such as coins and power-ups presenting a choice for players on how to achieve the fastest time.
+*Go Forth!* is our unique and enagaing take on a 2D platformer. Our game appeals to the user by featuring a fun and competitive speedrunning aspect, encouraging players to challenge for positions on a leaderboard. To distinguish ourselves from other products, we persued a medieval theme with collectibles such as coins and power-ups presenting a choice for players on how to achieve the fastest time.
 
 The leaderboard and built-in timer promote a fast-paced, engaging environment that encourages competition among players. In-game, players can choose between the quickest route through the level, or the potential for a power-up that will save them time in future levels. This system allows players to choose a playstyle that works best for each individual.
 
