@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     public SpriteRenderer spriteRenderer;
     public float speed;
     public float input;
+    public float jumpForce;
 
     // Start is called before the first frame update
    /* void Start()
@@ -30,6 +31,12 @@ public class PlayerMovement : MonoBehaviour
         else if(input > 0)
         {
             spriteRenderer.flipX = false;
+        }
+
+        // Allows jumping
+        if(Input.GetButton("Jump"))
+        {
+            playerRigidBody.velocity = Vector2.up * jumpForce;
         }
     }
 

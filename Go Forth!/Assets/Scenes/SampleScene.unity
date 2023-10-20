@@ -380,7 +380,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 10
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -520,6 +520,7 @@ MonoBehaviour:
   spriteRenderer: {fileID: 1332039677}
   speed: 10
   input: 0
+  jumpForce: 10
 --- !u!1 &1466215300
 GameObject:
   m_ObjectHideFlags: 0
