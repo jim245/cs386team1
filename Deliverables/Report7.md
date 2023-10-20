@@ -8,7 +8,7 @@ Project repo: https://github.com/jim245/cs386team1 <br>
 ## 1. Summary of Activities
 Colin – <br>
 Andrew – <br>
-Zach –  <br>
+Zach – Worked on the midterm presentation slides, practiced presenting slides, looked over videos for Unity <br>
 Jack – <br>
 Jade – <br>
 
