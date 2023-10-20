@@ -226,7 +226,7 @@ GameObject:
   - component: {fileID: 1233152919}
   - component: {fileID: 1233152918}
   - component: {fileID: 1233152920}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: DirtBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -518,9 +518,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerRigidBody: {fileID: 1332039676}
   spriteRenderer: {fileID: 1332039677}
+  feetPosition: {fileID: 0}
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 0
   speed: 10
   input: 0
-  jumpForce: 10
+  jumpForce: 20
+  feetSize: 0
 --- !u!1 &1466215300
 GameObject:
   m_ObjectHideFlags: 0
@@ -532,7 +537,7 @@ GameObject:
   - component: {fileID: 1466215303}
   - component: {fileID: 1466215302}
   - component: {fileID: 1466215301}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: GrassBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
