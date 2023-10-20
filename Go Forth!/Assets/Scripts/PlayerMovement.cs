@@ -12,14 +12,11 @@ public class PlayerMovement : MonoBehaviour
     public float speed;
     public float input;
     public float jumpForce;
-    public float feetSize; 
+    public float feetSize;
+    public float jumpTime = 0.25f;  // Total value of time knight can be in the air
+    public float jumpTimeCounter;
     private bool isOnGround;
-
-    // Start is called before the first frame update
-   /* void Start()
-    {
-        
-    }*/
+    private bool isJumping;
 
     // Update is called once per frame
     void Update()
@@ -41,9 +38,34 @@ public class PlayerMovement : MonoBehaviour
         isOnGround = Physics2D.OverlapCircle(feetPosition.position, feetSize, groundLayer);
 
         // Allows jumping
-        if(isOnGround && Input.GetButton("Jump"))
+        if(isOnGround && Input.GetButtonDown("Jump"))
         {
+            // Starts jump timer (for holding down space bar)
+            isJumping = true;
+            jumpTimeCounter = jumpTime;
+            
+            // Jumps
             playerRigidBody.velocity = Vector2.up * jumpForce;
+        }
+
+        // Continues jump while space button is held
+        if(isJumping && Input.GetButton("Jump"))
+        {
+            if(jumpTimeCounter > 0)
+            {
+                playerRigidBody.velocity = Vector2.up * jumpForce;
+                jumpTimeCounter -= Time.deltaTime;  // Lowers counter
+            }
+            else
+            {
+                isJumping = false;
+            }
+        }
+
+        // Ends jump when spacebar lifted
+        if(!Input.GetButton("Jump"))
+        {
+            isJumping = false;
         }
     }
 

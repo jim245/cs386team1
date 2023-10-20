@@ -345,6 +345,37 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 240, y: 48}
   m_EdgeRadius: 0
+--- !u!1 &1249143787
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1249143788}
+  m_Layer: 0
+  m_Name: FeetPosition
+  m_TagString: Untagged
+  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1249143788
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1249143787}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.18, y: -4.06, z: 0}
+  m_LocalScale: {x: 10, y: 4, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1332039678}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1332039675
 GameObject:
   m_ObjectHideFlags: 0
@@ -456,7 +487,8 @@ Transform:
   m_LocalPosition: {x: -20, y: 1, z: 0}
   m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1249143788}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1332039679
@@ -518,14 +550,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerRigidBody: {fileID: 1332039676}
   spriteRenderer: {fileID: 1332039677}
-  feetPosition: {fileID: 0}
+  feetPosition: {fileID: 1249143788}
   groundLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   speed: 10
   input: 0
   jumpForce: 20
-  feetSize: 0
+  feetSize: 0.2
+  jumpTime: 0.35
+  jumpTimeCounter: 0
 --- !u!1 &1466215300
 GameObject:
   m_ObjectHideFlags: 0
