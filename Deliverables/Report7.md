@@ -10,7 +10,7 @@ Colin – <br>
 Andrew – <br>
 Zach – Worked on the midterm presentation slides, practiced presenting slides, looked over videos for Unity <br>
 Jack – <br>
-Jade – <br>
+Jade – Polished previous deliverables for use in midterm presentation, started looking at network structure for leaderboard<br>
 
 ## 2. Project Retrospective
   1. Appreciations: <br>
