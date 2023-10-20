@@ -6,6 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     // Variables
     public Rigidbody2D playerRigidBody;
+    public SpriteRenderer spriteRenderer;
     public float speed;
     public float input;
 
@@ -20,6 +21,16 @@ public class PlayerMovement : MonoBehaviour
     {
         // Acquires input
         input = Input.GetAxisRaw("Horizontal");
+
+        // Flips sprite to match horizontal movement
+        if(input < 0)
+        {
+            spriteRenderer.flipX = true;
+        }
+        else if(input > 0)
+        {
+            spriteRenderer.flipX = false;
+        }
     }
 
     // Set to run 50 times per second to allow steady movement
