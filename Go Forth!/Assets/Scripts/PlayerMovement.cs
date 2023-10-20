@@ -7,9 +7,13 @@ public class PlayerMovement : MonoBehaviour
     // Variables
     public Rigidbody2D playerRigidBody;
     public SpriteRenderer spriteRenderer;
+    public Transform feetPosition;  // Used to check if knight is grounded
+    public LayerMask groundLayer;   // Allows identification of what's considered to be the ground
     public float speed;
     public float input;
     public float jumpForce;
+    public float feetSize; 
+    private bool isOnGround;
 
     // Start is called before the first frame update
    /* void Start()
@@ -33,8 +37,11 @@ public class PlayerMovement : MonoBehaviour
             spriteRenderer.flipX = false;
         }
 
+        // Checks if knight is grounded
+        isOnGround = Physics2D.OverlapCircle(feetPosition.position, feetSize, groundLayer);
+
         // Allows jumping
-        if(Input.GetButton("Jump"))
+        if(isOnGround && Input.GetButton("Jump"))
         {
             playerRigidBody.velocity = Vector2.up * jumpForce;
         }
