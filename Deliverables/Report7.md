@@ -6,7 +6,7 @@ Missing participants: N/A <br>
 Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of Activities
-Colin – <br>
+Colin – <br> Practiced getting my slide to appropriate duration and worked on wording it properly. 
 Andrew – Practiced for the midterm presentation. Added sprites to the game and created collision for them. Added basic movement to the player sprite featuring jumping. Holding the spacebar extends the jump to a certain limit, and the player can only jump once before touching a "Ground" sprite. <br>
 Zach – Worked on the midterm presentation slides, practiced presenting slides, looked over videos for Unity <br>
 Jack – <br>
