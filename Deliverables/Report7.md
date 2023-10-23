@@ -20,4 +20,4 @@ Jade – Polished previous deliverables for use in midterm presentation, started
   5. What we should try next time: We need to be ready to start working on the first implementation deliverable. <br>
 
 ## 3. Next steps
-
+Continue working on the basics of the game, ideally starting with the camera. Building upon Andrew's work to create a functional first level. Creating a first iteration of the game is top priority now that the midterm is over, implementing some of the features we planned.
