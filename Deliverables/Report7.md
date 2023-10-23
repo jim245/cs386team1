@@ -9,7 +9,7 @@ Project repo: https://github.com/jim245/cs386team1 <br>
 Colin – Practiced getting my slide to appropriate duration and worked on wording it properly. <br>
 Andrew – Practiced for the midterm presentation. Added sprites to the game and created collision for them. Added basic movement to the player sprite featuring jumping. Holding the spacebar extends the jump to a certain limit, and the player can only jump once before touching a "Ground" sprite. <br>
 Zach – Worked on the midterm presentation slides, practiced presenting slides, looked over videos for Unity <br>
-Jack – <br>
+Jack – Worked on the midterm slides and practiced with the rest of the group to ensure a clear delivery. Did more unity research.<br>
 Jade – Polished previous deliverables for use in midterm presentation, started looking at network structure for leaderboard<br>
 
 ## 2. Project Retrospective
