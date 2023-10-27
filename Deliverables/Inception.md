@@ -1,30 +1,31 @@
 # Project Inception
-Group 01 – “[Go Forth!]” <br>
-Date and location: Sep 15, 2023 <br>
-Group Members: Andrew Angus, Colin MacDonald, Jack Watson, Jade Meskill and Zach Trusso <br>
+## Group 01 – "[Go Forth!]"
+**Date and location:** September 15, 2023
+**Group Members:** Andrew Angus, Colin MacDonald, Jack Watson, Jade Meskill, and Zach Trusso
 
 ## 1. Introduction
-Go Forth and explore this 2D world! It is a 2D sidescroller set in the medieval period. You are tasked by the king to explore a dangerous area and collect relics to bring back to the kingdom. Speedrun your way to the end of levels or take time to explore your surroundings and obtain powerups to assist you on your journey. 
-This is a risk-and-reward style speedrunning 2d sidescroller! Will you perfectly execute your run to the end or opt to acquire special powers to help you later on? Do what you think will bring you the best scores and become No.1 on the leaderboard! We are aiming to create a unique art style to complement the gameplay and in future iterations, we hope to expand the lore surrounding the characters.
+### Addressing a Stale Market in Platformers
 
-## 2. Initial value proposition and consumer segments
-### IVP:
+Welcome to "Go Forth!", an exciting 2D side-scroller adventure set in a medieval world. In this project, we aim to address the prevalent issue of stagnation in the platformer genre by offering a fresh, exhilarating experience that appeals to a broad range of gamers. We recognize the need for a game that combines challenging gameplay with compelling competition while catering to various player preferences. "Go Forth!" is our solution to this problem.
 
-Go Forth will a fun, challenging speedrun focused 2D sidescroller which engage users through fun gameplay and compelling competition.
+## 2. Initial Value Proposition and Consumer Segments
+### Solving the Stale Platformer Problem
 
-### Initial Consumer Segments:
+**Initial Value Proposition (IVP):**
+"Go Forth!" presents a novel approach to 2D side-scrollers, offering a fun and challenging experience that engages players through dynamic gameplay and competitive elements.
 
-- Teen demographic
-- Casual gamers
-- Serious gamers
-- Speedrunners
-- Retro game fans
-- Non-gamers
+**Consumer Segments:**
+- **Teen Demographic**: Attracting the youth who seek exciting gaming experiences.
+- **Casual Gamers**: Engaging individuals looking for enjoyable yet approachable gameplay.
+- **Serious Gamers**: Catering to the enthusiasts seeking challenging experiences.
+- **Speedrunners**: Offering a unique, competitive platform for speedrunning enthusiasts.
+- **Retro Game Fans**: Capturing the nostalgia of classic gaming in a modern context.
+- **Non-Gamers**: Providing a simple, enjoyable entry point for those new to gaming.
 
 ## 3. Interviews summary
 
 ### Interview 1:
-**Summary**: Interviewee was interested in a challenging 2d sidescroller with an online leaderboard. They liked the idea of competing for the best time, but also suggested additional rewards for quickness such as unlockable player skins. The interviewee also recommended adjusting the game to accommodate for both casual and serious gamers.
+**Summary**: Interviewee was interested in a challenging 2d side-scroller with an online leaderboard. They liked the idea of competing for the best time, but also suggested additional rewards for quickness such as unlockable player skins. The interviewee also recommended adjusting the game to accommodate for both casual and serious gamers.
 
 **Interviewer**: Andrew Angus <br>
 **Interviewee**: Scottie Freeman <br>
@@ -64,7 +65,7 @@ Go Forth will a fun, challenging speedrun focused 2D sidescroller which engage u
 
 #### Representative quotes
 - "I think I would play the game if the levels were challenging and there was a satisfying 100%"
-- "I'm not paying for the battlepass."
+- "I'm not paying for the battle pass."
 
 #### Hypotheses that were validated
 - Hidden levels add replayability
@@ -77,7 +78,7 @@ Go Forth will a fun, challenging speedrun focused 2D sidescroller which engage u
 - Enemies (Don't care)
 
 ### Interview 3:
-**Summary**: The interviewee is a casual gamer who doesn't have a lot of experience with 2d sidescrollers. The most important thing for them is to be able to get
+**Summary**: The interviewee is a casual gamer who doesn't have a lot of experience with 2d side-scrollers. The most important thing for them is to be able to get
 all the collectibles in the game. They would also be interested if the game has more story.
 
 **Interviewer**: Zach Trusso <br>
@@ -104,7 +105,7 @@ all the collectibles in the game. They would also be interested if the game has 
 - Cosmetics (don't care)
 
 ### Interview 4:
-**Summary**: The interviewee is a gamer with a preference for games that offer a mix of challenge and enjoyment. They appreciate a well-crafted 2D sidescroller with attention to detail in gameplay and visuals. While they aren't a hardcore speedrunner, they appreciate the option to compete on leaderboards. Additionally, they value a game that balances accessibility for casual players and depth for serious gamers.
+**Summary**: The interviewee is a gamer with a preference for games that offer a mix of challenge and enjoyment. They appreciate a well-crafted 2D side-scroller with attention to detail in gameplay and visuals. While they aren't a hardcore speedrunner, they appreciate the option to compete on leaderboards. Additionally, they value a game that balances accessibility for casual players and depth for serious gamers.
 
 **Interviewer**: Jack Watson <br>
 **Interviewee**: Imogen Benton <br>
@@ -151,7 +152,7 @@ all the collectibles in the game. They would also be interested if the game has 
 #### Representative quotes
 1. "I like playing a casual game that can be infuriatingly difficult at times"
 2. "The console controls really appeal to me, but that means it must be forgiving enough to allow for them"
-3. "The idea of comparing myself to others who've played the game is nice, as long as its not too in my face"
+3. "The idea of comparing myself to others who've played the game is nice, as long as it's not too in my face"
 
 #### Hypotheses that were validated
 - Controls are above all else
@@ -165,7 +166,7 @@ all the collectibles in the game. They would also be interested if the game has 
 - Rewards (Nice to Have)
 
 ### Interview 6:
-**Summary**: The interviewee is a non-gamer with limited experience in video games, especially 2D sidescrollers. They have a casual interest in games but haven't played them extensively. They prefer easy gameplay, a straightforward storyline, and minimal difficulty.
+**Summary**: The interviewee is a non-gamer with limited experience in video games, especially 2D side-scrollers. They have a casual interest in games but haven't played them extensively. They prefer easy gameplay, a straightforward storyline, and minimal difficulty.
 
 **Interviewer**: Jack Watson <br>
 **Interviewee**: Ignacio Suarez <br>
@@ -185,7 +186,7 @@ all the collectibles in the game. They would also be interested if the game has 
 
 #### Hypotheses that were validated
 - Simplicity and ease of gameplay are crucial for non-gamers.
-- Non-gamers may prefer straightforward storylines over complex narratives.
+- Non-gamers may prefer straightforward storylines to complex narratives.
 - Openness to trying games if they offer a simple and enjoyable experience.
 
 #### Assessment: Must have / Nice to have / Don’t care
@@ -210,7 +211,7 @@ all the collectibles in the game. They would also be interested if the game has 
 #### Representative quotes
 "For 2d games I don't care about fancy art styles, I prefer it to be simpler" <br>
 "If it is only hp and checkpoints, difficulty sliders aren't needed" <br>
-"Easter eggs would be really cool, things that arent a part of the main game" <br>
+"Easter eggs would be really cool, things that aren't a part of the main game" <br>
 
 #### Hypotheses that were validated
 - Low skill floor and ceiling is a good trait to have <br>
@@ -219,16 +220,19 @@ all the collectibles in the game. They would also be interested if the game has 
 #### Assessment: Must have / Nice to have / Don’t care
 Lore (Nice to have) <br>
 Mechanic Diversity (Nice to have) <br>
-Fancy artstyle for 2d (Don't care) <br>
+Fancy art style for 2d (Don't care) <br>
 
-## 4. Final value proposition and consumer segments
+## 4. Final Value Proposition and Consumer Segments
+### Crafting a Unique Solution for Gamers
+
 **Final Value Proposition:**
-A game with a range of difficulties, smooth gameplay, and simple controls. An online leaderboard to compare yourself to others and some rewards to earn in game.
+"Go Forth!" offers a diverse range of difficulty levels, smooth gameplay, and simple controls. The game includes an online leaderboard for players to compare their performance and rewards to earn in-game.
 
-**Consumer segments:**
-- Generally 18-21 <br>
-- Gamers, both casual and serious <br>
-- Platformer enjoyers <br>
-- Retro fans <br>
-- Some non-gamers <br>
+**Consumer Segments:**
+Our game appeals to a wide audience, including:
+- Gamers aged 18-21
+- Platformer enthusiasts
+- Retro gaming fans
+- Non-gamers seeking a simple yet enjoyable gaming experience
 
+"Go Forth!" is our innovative response to the need for an exciting and diverse platformer that revitalizes the genre and caters to a variety of player preferences. We aim to provide a memorable and enjoyable gaming experience for all.
