@@ -1,18 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class ScoreHolder : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public TMP_Text scoreUI_Text;
+    public int scoreNum = 0;
 
-    // Update is called once per frame
-    void Update()
+
+    public void changeScore(int addedScore)
     {
-        
+        scoreNum += addedScore;
+        scoreUI_Text.text = scoreNum.ToString();
     }
 }
