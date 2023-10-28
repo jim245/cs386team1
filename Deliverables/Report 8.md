@@ -6,7 +6,7 @@ Missing participants: N/A <br>
 Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of Activities
-Colin – <br>
+Colin – I added the simpliest form of camera movement that can be changed later on if need-be, and a framework for the score mechanic.<br>
 Andrew – <br>
 Zach – <br>
 Jack – <br>
