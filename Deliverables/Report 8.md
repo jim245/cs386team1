@@ -13,11 +13,11 @@ Jack – <br>
 Jade – <br>
 
 ## 2. Project Retrospective
-  1. Appreciations: <br>
-  2. Successes: <br>
-  3. Failures: <br>
-  4. Barriers: <br>
-  5. What we should try next time: <br>
+  1. Appreciations: Everyone has put in work on the project<br>
+  2. Successes: Basic features were implemented well<br>
+  3. Failures: N/A <br>
+  4. Barriers: Time issues, other classes taking up large portions of our time. <br>
+  5. What we should try next time: Working ahead farther, preventing a crunch between the meeting and deliverables. <br>
 
 ## 3. Next steps
-
+Begin laying out the architecture of the whole system for future deliverables. Add some missing features, focusing on the leaderboard system.
