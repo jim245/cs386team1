@@ -49,8 +49,8 @@ Unity - Used for the basics of creating the game, easiest to use for a group.<br
 Github (Github Desktop) - Used to share working versions of the game and build on it in turns. <br>
 
 ## Learning/Training
-YouTube Videos - Primary learning source, varied tutorials with in depth guides.
-Internet Research - Websites can provide valuable resources for specific issues.
+YouTube Videos - Primary learning source, varied tutorials with in depth guides. <br>
+Internet Research - Websites can provide valuable resources for specific issues. <br>
 
 ## Deployment
 N/A
