@@ -68,7 +68,7 @@ We decided on the GNU GPL License v3.0, as the code can be seen and improved on 
 
 
 ## Lessons Learned
-
+Basic unity features, adding objects and applying attributes to them. Addtionally, we also are learning bits and pieces of C# as a byproduct of using Unity as our game engine.
 
 ## Demo
 
