@@ -10,7 +10,7 @@ Colin – I added the simpliest form of camera movement that can be changed late
 Andrew – I worked on setting up a title screen with only one button to start the game.<br>
 Zach – <br>
 Jack – <br>
-Jade – <br>
+Jade – Implemented basic spikes that kill the player and send them back to the start of the level.<br>
 
 ## 2. Project Retrospective
   1. Appreciations: Everyone has put in work on the project<br>
