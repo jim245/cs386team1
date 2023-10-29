@@ -65,7 +65,7 @@ We decided on the GNU GPL License v3.0, as the code can be seen and improved on 
 [CODE_OF_CONDUCT](../CODE_OF_CONDUCT.md) <br>
 
 ## Look & Feel
-
+Extremely simple 8 directional movement with a pixelated background. Movement will be improved as the project continues but for now it is smooth but simple.
 
 ## Lessons Learned
 Basic unity features, adding objects and applying attributes to them. Addtionally, we also are learning bits and pieces of C# as a byproduct of using Unity as our game engine.
