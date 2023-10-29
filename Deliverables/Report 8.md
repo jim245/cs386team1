@@ -7,7 +7,7 @@ Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of Activities
 Colin – I added the simpliest form of camera movement that can be changed later on if need-be, and a framework for the score mechanic.<br>
-Andrew – <br>
+Andrew – I worked on setting up a title screen with only one button to start the game.<br>
 Zach – <br>
 Jack – <br>
 Jade – <br>
