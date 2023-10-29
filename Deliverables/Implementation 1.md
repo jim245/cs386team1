@@ -1,7 +1,7 @@
 # Implementation 1
 
 ## Introduction
-For gamers looking for a thrilling experience and serious gamers seeking a competitive edge, Go Forth! is a 2D platforming game that offers a lively gameplay experience through its distinct speedrunning leaderboard. The leaderboard and built-in timer promote a fast-paced, engaging environment that encourages competition among players. In-game, players can choose between the quickest route through the level, or the potential for a power-up that will save them time in future levels. This system allows players to pick a playstyle that works best for each individual. Go Forth! ensures that boredom and sluggish gameplay are replaced with excitement and the motivation to achieve top rankings, ultimately reinvigorating the gaming community and increasing player retention. As of now, our game contains an initial level that showcases the player's movement and the obstacles they must surpass. View our project on GitHub at [https://github.com/jim245/cs386team1/edit/main/Deliverables/Implementation%201.md](https://github.com/jim245/cs386team1/edit/main/Deliverables/Implementation%201.md).
+For gamers looking for a thrilling experience and serious gamers seeking a competitive edge, Go Forth! is a 2D platforming game that offers a lively gameplay experience through its distinct speedrunning leaderboard. The leaderboard and built-in timer promote a fast-paced, engaging environment that encourages competition among players. In-game, players can choose between the quickest route through the level, or the potential for a power-up that will save them time in future levels. This system allows players to pick a playstyle that works best for each individual. Go Forth! ensures that boredom and sluggish gameplay are replaced with excitement and the motivation to achieve top rankings, ultimately reinvigorating the gaming community and increasing player retention. As of now, our game contains an initial level that showcases the player's movement and the obstacles they must surpass. View our project on GitHub [here](https://github.com/jim245/cs386team1/edit/main/Deliverables/Implementation%201.md).
 
 ## Implemented Requirements
 NOTE: We have not reached any of the user stories and issues created in the second Deliverable, however we created new issues to account for the features we have added so far. 
@@ -46,7 +46,7 @@ N/A
 
 ## Adopted Technologies
 Unity - Used for the basics of creating the game, easiest to use for a group.<br>
-Github (Github Desktop) - Used to share working versions of the game and build on it in turns. <br>
+GitHub (GitHub Desktop) - Used to share working versions of the game and build on it in turns. <br>
 
 ## Learning/Training
 YouTube Videos - Primary learning source, varied tutorials with in depth guides. <br>
@@ -68,7 +68,7 @@ We decided on the GNU GPL License v3.0, as the code can be seen and improved on 
 Extremely simple 8 directional movement with a pixelated background. Movement will be improved as the project continues but for now it is smooth but simple.
 
 ## Lessons Learned
-Basic unity features, adding objects and applying attributes to them. Addtionally, we also are learning bits and pieces of C# as a byproduct of using Unity as our game engine.
+Basic unity features, adding objects and applying attributes to them. Additionally, we also are learning bits and pieces of C# as a byproduct of using Unity as our game engine.
 
 ## Demo
 
