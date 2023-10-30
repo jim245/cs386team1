@@ -463,6 +463,10 @@ PrefabInstance:
       propertyPath: m_Size.x
       value: 53.1832
       objectReference: {fileID: 0}
+    - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 6011598170586255208, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Name
       value: DirtBlock (3)
@@ -912,6 +916,10 @@ PrefabInstance:
       propertyPath: m_Size.y
       value: 81.24942
       objectReference: {fileID: 0}
+    - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 6011598170586255208, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Name
       value: DirtBlock (2)
@@ -984,6 +992,10 @@ PrefabInstance:
     - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Size.y
       value: 217.9068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 6011598170586255208, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Name
@@ -1153,6 +1165,10 @@ PrefabInstance:
       propertyPath: m_Size.y
       value: 29.12527
       objectReference: {fileID: 0}
+    - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 6011598170586255208, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Name
       value: DirtBlock (5)
@@ -1318,6 +1334,10 @@ PrefabInstance:
     - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Size.y
       value: 95.90264
+      objectReference: {fileID: 0}
+    - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 6011598170586255208, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Name
@@ -2830,6 +2850,10 @@ PrefabInstance:
       propertyPath: m_Size.y
       value: 27.800087
       objectReference: {fileID: 0}
+    - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 6011598170586255208, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Name
       value: DirtBlock (8)
@@ -2914,6 +2938,10 @@ PrefabInstance:
     - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Size.y
       value: 87.22873
+      objectReference: {fileID: 0}
+    - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 6011598170586255208, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Name
@@ -3004,6 +3032,10 @@ PrefabInstance:
     - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Size.y
       value: 25.737494
+      objectReference: {fileID: 0}
+    - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 6011598170586255208, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Name
@@ -3525,7 +3557,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -2
   m_Sprite: {fileID: 21300000, guid: 7ffbc7a420284f74b88c7b201c8f19c9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3833,6 +3865,10 @@ PrefabInstance:
       propertyPath: m_Size.x
       value: 59.35514
       objectReference: {fileID: 0}
+    - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 6011598170586255208, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Name
       value: DirtBlock (6)
@@ -3966,6 +4002,10 @@ PrefabInstance:
     - target: {fileID: 2006513086881921228, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4356217789076728278, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 6011598170586255208, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
       propertyPath: m_Name
