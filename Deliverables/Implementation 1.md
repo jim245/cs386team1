@@ -41,6 +41,14 @@ Implemented by: Jack Watson<br>
 Approved by: Jack Watson (before realizing PRs had to be approved)<br>
 Print screen: <br>
 
+Requirement: As a Gamer, I want an in-game timer, so I can see how fast I complete a level.<br>
+Issue: <br>
+Pull request: <br>
+Implemented by: Zach Trusso<br>
+Approved by: Colin MacDonald<br>
+Print screen: <br>
+
+
 ## Tests
 N/A
 
