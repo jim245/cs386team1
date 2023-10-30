@@ -8,7 +8,7 @@ Project repo: https://github.com/jim245/cs386team1 <br>
 ## 1. Summary of Activities
 Colin – I added the simplest form of camera movement that can be changed later on if need-be, and a framework for the score mechanic. Later fixed player movement bug. <br>
 Andrew – I worked on setting up a title screen with only one button to start the game.<br>
-Zach – <br>
+Zach – I worked on creating the in-game timer that will be used for the leaderboard. <br>
 Jack – I built the basic level layout, adding platforms and structure to the game. I coded the platforms to allow the player to jump through from underneath. I also distributed the spike objects Jade produced throughout the level.<br>
 Jade – Implemented basic spikes that kill the player and send them back to the start of the level. <br>
 
