@@ -20,4 +20,4 @@ Jade – Implemented basic spikes that kill the player and send them back to the
   5. What we should try next time: Working ahead farther, preventing a crunch between the meeting and deliverables. <br>
 
 ## 3. Next steps
-Begin laying out the architecture of the whole system for future deliverables. Add some missing features, focusing on the leaderboard system.
+Begin laying out the architecture of the whole system for future deliverables. Add some missing features, focusing on the first level, and basic mechanics.
