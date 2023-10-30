@@ -11,7 +11,8 @@ public class KillPlayer : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            SceneManager.LoadScene(Respawn);
+            //SceneManager.LoadScene(Respawn);
+            GameObject.Find("Knight").transform.position = new Vector3(-20, 1, 0);
         }
     }
 }
