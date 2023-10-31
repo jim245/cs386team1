@@ -9,8 +9,8 @@ public class MovementTest
     [UnityTest]
     public IEnumerator PlayerCanMove()
     {
-        GameObject playerObject = new GameObject("Knight");
-        PlayerMovement playerMovement = playerObject.AddComponent<PlayerMovement>();
+        var playerObject = new GameObject("Knight");
+        var playerMovement = playerObject.AddComponent<PlayerMovement>();
 
         // Set jumping
         playerMovement.isJumping = true;
@@ -24,8 +24,8 @@ public class MovementTest
     [UnityTest]
     public IEnumerator PlayerCanJumpWhenGrounded()
     {
-        GameObject playerObject = new GameObject("Knight");
-        PlayerMovement playerMovement = playerObject.AddComponent<PlayerMovement>();
+        var playerObject = new GameObject("Knight");
+        var playerMovement = playerObject.AddComponent<PlayerMovement>();
 
         // Player on ground
         playerMovement.isOnGround = true;
