@@ -11,16 +11,14 @@ Issue: [https://github.com/jim245/cs386team1/issues/17](https://github.com/jim24
 Pull request: [https://github.com/jim245/cs386team1/pull/10](https://github.com/jim245/cs386team1/pull/10)<br>
 Implemented by: Andrew Angus<br>
 Approved by: Andrew Angus (before realizing PRs had to be approved)<br>
-Print screen: ![image](https://github.com/jim245/cs386team1/assets/101908863/d8255cf7-7c6c-416f-849c-29695e08df14)
-<br>
+Print screen: <br> ![image](https://github.com/jim245/cs386team1/assets/101908863/d8255cf7-7c6c-416f-849c-29695e08df14)
 
 Requirement: As a Gamer, I want spike obstacles within the levels so that precise movement is required to reach the end.<br>
 Issue: [https://github.com/jim245/cs386team1/issues/14](https://github.com/jim245/cs386team1/issues/14)<br>
 Pull request: [https://github.com/jim245/cs386team1/pull/15](https://github.com/jim245/cs386team1/pull/15)<br>
 Implemented by: Jade Meskill<br>
 Approved by: Jack Watson<br>
-Print screen: ![image](https://github.com/jim245/cs386team1/assets/101908863/37708820-c57f-489e-a43f-f9e23d25ed58)
-<br>
+Print screen: <br> ![image](https://github.com/jim245/cs386team1/assets/101908863/37708820-c57f-489e-a43f-f9e23d25ed58)
 
 Requirement: As a Competitive Gamer, I want to track my score during a level so that I can replay levels trying to improve my score.<br>
 Issue: [https://github.com/jim245/cs386team1/issues/18](https://github.com/jim245/cs386team1/issues/18)<br>
@@ -34,8 +32,7 @@ Issue: [https://github.com/jim245/cs386team1/issues/19](https://github.com/jim24
 Pull request: [https://github.com/jim245/cs386team1/pull/13](https://github.com/jim245/cs386team1/pull/13)<br>
 Implemented by: Andrew Angus<br>
 Approved by: Colin MacDonald<br>
-Print screen: ![image](https://github.com/jim245/cs386team1/assets/101908863/55e4703a-601b-45ff-b6d6-ad0e29649798)
-<br>
+Print screen: <br> ![image](https://github.com/jim245/cs386team1/assets/101908863/55e4703a-601b-45ff-b6d6-ad0e29649798)
 
 Requirement: As a Gamer, I want level one to be creative so that replaying the game feels exciting.<br>
 Issue: [https://github.com/jim245/cs386team1/issues/21](https://github.com/jim245/cs386team1/issues/21)<br>
@@ -49,12 +46,13 @@ Issue: https://github.com/jim245/cs386team1/issues/23 <br>
 Pull request: https://github.com/jim245/cs386team1/pull/22 <br>
 Implemented by: Zach Trusso<br>
 Approved by: Colin MacDonald<br>
-Print screen: ![image](https://github.com/jim245/cs386team1/assets/101908863/811bbee4-bc06-45a0-8bed-51567494a645)
-<br>
- 
+Print screen: <br> ![image](https://github.com/jim245/cs386team1/assets/101908863/811bbee4-bc06-45a0-8bed-51567494a645)
 
 ## Tests
-N/A
+Framework: Unity Test Framework (NUnit) <br>
+Link: [here]() <br>
+Example: [class]() and [test]() <br>
+Print screen: <br>
 
 ## Adopted Technologies
 Unity - Used for the basics of creating the game, easiest to use for a group.<br>
@@ -65,7 +63,7 @@ YouTube Videos - Primary learning source, varied tutorials with in depth guides.
 Internet Research - Websites can provide valuable resources for specific issues. <br>
 
 ## Deployment
-N/A
+A simple dummy leaderboard in markdown currently, likely HTML in the future, located [here](https://jim245.github.io/cs386team1/) <br>
 
 ## Licensing
 We decided on the GNU GPL License v3.0, as the code can be seen and improved on by others, while also retaining basic copyrights. While it could theoretically be used commercially, we aren't doing this to make any money in the first place. 
