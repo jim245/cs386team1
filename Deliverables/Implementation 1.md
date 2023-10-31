@@ -50,9 +50,10 @@ Print screen: <br> ![image](https://github.com/jim245/cs386team1/assets/10190886
 
 ## Tests
 Framework: Unity Test Framework (NUnit) <br>
-Link: [here]() <br>
-Example: [class]() and [test]() <br>
-Print screen: <br>
+Link: [here](https://github.com/jim245/cs386team1/tree/main/Go%20Forth!/Assets/Tests/PlayMode) <br>
+Example: An example test case is testing the player's jump function. [class](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Scripts/PlayerMovement.cs) and [test](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Tests/PlayMode/MovementTest.cs) <br>
+Print screen: The tests are not functioning properly as of now due to an issue connecting to an instance of an object. The current output is: ![image](https://github.com/jim245/cs386team1/assets/101908863/94e1d6d2-cd57-48f4-a708-56bd92df6bf1)
+<br>
 
 ## Adopted Technologies
 Unity - Used for the basics of creating the game, easiest to use for a group.<br>
