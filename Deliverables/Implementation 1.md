@@ -82,5 +82,5 @@ Extremely simple 8 directional movement with a pixelated background. Movement wi
 Basic unity features, adding objects and applying attributes to them. Additionally, we also are learning bits and pieces of C# as a byproduct of using Unity as our game engine. <br>
 
 ## Demo
-[![Go Forth! Demo](https://github.com/jim245/cs386team1/blob/main/ArtAssets/Spikes.png)](https://youtu.be/vG1ObzDUziE)
+[![Go Forth! Demo]](https://youtu.be/vG1ObzDUziE)
 
