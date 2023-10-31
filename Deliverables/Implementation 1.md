@@ -1,10 +1,10 @@
 # Implementation 1
 
 ## Introduction
-For gamers looking for a thrilling experience and serious gamers seeking a competitive edge, Go Forth! is a 2D platforming game that offers a lively gameplay experience through its distinct speedrunning leaderboard. The leaderboard and built-in timer promote a fast-paced, engaging environment that encourages competition among players. In-game, players can choose between the quickest route through the level, or the potential for a power-up that will save them time in future levels. This system allows players to pick a playstyle that works best for each individual. Go Forth! ensures that boredom and sluggish gameplay are replaced with excitement and the motivation to achieve top rankings, ultimately reinvigorating the gaming community and increasing player retention. As of now, our game contains an initial level that showcases the player's movement and the obstacles they must surpass. View our project on GitHub [here](https://github.com/jim245/cs386team1).
+For gamers looking for a thrilling experience and serious gamers seeking a competitive edge, Go Forth! is a 2D platforming game that offers a lively gameplay experience through its distinct speedrunning leaderboard. The leaderboard and built-in timer promote a fast-paced, engaging environment that encourages competition among players. In-game, players can choose between the quickest route through the level, or the potential for a power-up that will save them time in future levels. This system allows players to pick a playstyle that works best for each individual. Go Forth! ensures that boredom and sluggish gameplay are replaced with excitement and the motivation to achieve top rankings, ultimately reinvigorating the gaming community and increasing player retention. As of now, our game contains an initial level that showcases the player's movement and the obstacles they must surpass. View our project on GitHub [here](https://github.com/jim245/cs386team1). <br>
 
 ## Implemented Requirements
-NOTE: We have not reached any of the user stories and issues created in the second Deliverable, however we created new issues to account for the features we have added so far. 
+NOTE: We have not reached any of the user stories and issues created in the second Deliverable, however we created new issues to account for the features we have added so far. <br>
 
 Requirement: As a Gamer, I want to control the character using a keyboard so that I can navigate the game.<br>
 Issue: [https://github.com/jim245/cs386team1/issues/17](https://github.com/jim245/cs386team1/issues/17)<br>
@@ -52,8 +52,8 @@ Print screen: <br> ![image](https://github.com/jim245/cs386team1/assets/10190886
 Framework: Unity Test Framework (NUnit) <br>
 Link: [here](https://github.com/jim245/cs386team1/tree/main/Go%20Forth!/Assets/Tests/PlayMode) <br>
 Example: An example test case is testing the player's jump function. [class](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Scripts/PlayerMovement.cs) and [test](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Tests/PlayMode/MovementTest.cs) <br>
-Print screen: The tests are not functioning properly as of now due to an issue connecting to an instance of an object. The current output is: ![image](https://github.com/jim245/cs386team1/assets/101908863/94e1d6d2-cd57-48f4-a708-56bd92df6bf1)
-<br>
+Print screen: The tests are not functioning properly as of now due to an issue connecting to an instance of an object. The current output is: <br> ![image](https://github.com/jim245/cs386team1/assets/101908863/94e1d6d2-cd57-48f4-a708-56bd92df6bf1)
+
 
 ## Adopted Technologies
 Unity - Used for the basics of creating the game, easiest to use for a group.<br>
@@ -64,7 +64,7 @@ YouTube Videos - Primary learning source, varied tutorials with in depth guides.
 Internet Research - Websites can provide valuable resources for specific issues. <br>
 
 ## Deployment
-A simple dummy leaderboard in markdown currently, likely HTML in the future, located [here](https://jim245.github.io/cs386team1/) <br>
+A simple dummy leaderboard in Markdown currently, likely HTML in the future, located [here](https://jim245.github.io/cs386team1/) <br>
 
 ## Licensing
 We decided on the GNU GPL License v3.0, as the code can be seen and improved on by others, while also retaining basic copyrights. While it could theoretically be used commercially, we aren't doing this to make any money in the first place. 
@@ -76,10 +76,10 @@ We decided on the GNU GPL License v3.0, as the code can be seen and improved on 
 [CODE_OF_CONDUCT](../CODE_OF_CONDUCT.md) <br>
 
 ## Look & Feel
-Extremely simple 8 directional movement with a pixelated background. Movement will be improved as the project continues but for now it is smooth but simple.
+Extremely simple 8 directional movement with a pixelated background. Movement will be improved as the project continues but for now it is smooth but simple. <br>
 
 ## Lessons Learned
-Basic unity features, adding objects and applying attributes to them. Additionally, we also are learning bits and pieces of C# as a byproduct of using Unity as our game engine.
+Basic unity features, adding objects and applying attributes to them. Additionally, we also are learning bits and pieces of C# as a byproduct of using Unity as our game engine. <br>
 
 ## Demo
 ![here](https://youtu.be/vG1ObzDUziE)
