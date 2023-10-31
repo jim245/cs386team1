@@ -53,12 +53,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (isOnGround && Input.GetButtonDown("Jump"))
         {
-            // Starts jump timer (for holding down space bar)
-            isJumping = true;
-            jumpTimeCounter = jumpTime;
-
-            // Jumps
-            playerRigidBody.velocity = Vector2.up * jumpForce;
+            Jump();
         }
 
         // Continues jump while space button is held
@@ -80,5 +75,15 @@ public class PlayerMovement : MonoBehaviour
         {
             isJumping = false;
         }
+    }
+
+    public void Jump()
+    {
+        // Starts jump timer (for holding down space bar)
+        isJumping = true;
+        jumpTimeCounter = jumpTime;
+
+        // Jumps
+        playerRigidBody.velocity = Vector2.up * jumpForce;
     }
 }
