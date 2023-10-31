@@ -1,33 +1,14 @@
 # Go Forth!
-One Paragraph of project description goes here
+For gamers looking for a thrilling experience and serious gamers seeking a competitive edge, Go Forth! is a 2D platforming game that offers a lively gameplay experience through its distinct speedrunning leaderboard. The leaderboard and built-in timer promote a fast-paced, engaging environment that encourages competition among players. In-game, players can choose between the quickest route through the level, or the potential for a power-up that will save them time in future levels. This system allows players to pick a playstyle that works best for each individual. Go Forth! ensures that boredom and sluggish gameplay are replaced with excitement and the motivation to achieve top rankings, ultimately reinvigorating the gaming community and increasing player retention. As of now, our game contains an initial level that showcases the player's movement and the obstacles they must surpass. 
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-What things you need to install the software and how to install them
-```
-Give examples
-```
-
-### Intalling
-A step by step series of examples that tell you how to get a development env running
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Unity (v2022.3.10f1)
 
 ## Running the tests
-Explain how to run the automated tests for this system
+Testing is done using the Unity Test Framework (UTF), through the Unity Editor.
 
 ### Break down into end to end tests
 Explain what these tests test and why
@@ -41,19 +22,21 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-Add additional notes about how to deploy this on a live system
-
 ## Built With
+Unity and C#
 
 ## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on the process for submitting pull requests to us, and [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for our code of conduct. <br>
 
 ## Versioning
+The current version is: 1.0.0
 
 ## Authors
+Andrew Angus <br>
+Colin MacDonald <br>
+Jack Watson <br>
+Jade Meskill <br>
+Zach Trusso <br>
 
 ## License
-This project is licensed under the GNU GPL License v3.0 - see the LICENSE file for details
-
-## Acknowledgments
+This project is licensed under the GNU GPL License v3.0 - see the [LICENSE](./LICENSE) file for details
