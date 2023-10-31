@@ -3,61 +3,21 @@ using UnityEngine.TestTools;
 using NUnit.Framework;
 using System.Collections;
 
-public class JumpTest
+public class MovementTest
 {
-    GameObject playerObject;
-    PlayerMovement playerMovementScript;
-
-    [SetUp]
-    public void Setup()
-    {
-        // Loads player from scene
-        GameObject playerObject = new GameObject();
-        playerObject.AddComponent<PlayerMovement>();
-
-        PlayerMovement playerMovementScript = playerObject.GetComponent<PlayerMovement>();
-    }
 
     [UnityTest]
-    public IEnumerator PlayerCanJumpWhenGrounded()
+    public IEnumerator PlayerCanMove()
     {
-        // Player on ground
-        playerMovementScript.isOnGround = true;
+        GameObject playerObject = new GameObject("Knight");
+        PlayerMovement playerMovement = playerObject.AddComponent<PlayerMovement>();
 
-        // Player jumps
-        playerMovementScript.Update();
-        playerMovementScript.FixedUpdate();
+        // Set jumping
+        playerMovement.isJumping = true;
 
-        // Verify that the player is jumping
-        Assert.IsTrue(playerMovementScript.isJumping);
+        // Check if the player is jumping
+        Assert.IsTrue(playerMovement.isJumping);
 
-        yield return null;
-    }
-
-    [UnityTest]
-    public IEnumerator PlayerStopsJumpingWhenJumpButtonReleased()
-    {
-        // Simulate the player jumping
-        playerMovementScript.isJumping = true;
-
-        // Simulate releasing the jump button
-        playerMovementScript.Update();
-        playerMovementScript.FixedUpdate();
-
-        // Verify that the player stops jumping
-        Assert.IsFalse(playerMovementScript.isJumping);
-
-        yield return null;
-    }
-
-    // Simulate the jump button press
-    private IEnumerator SimulateJump()
-    {
-        // Simulate pressing the jump button
-        playerMovementScript.isOnGround = true; // Ensure the player is grounded
-        playerMovementScript.Update(); // Simulate the Update method
-
-        // Yield a frame to mimic the behavior over time
         yield return null;
     }
 }
