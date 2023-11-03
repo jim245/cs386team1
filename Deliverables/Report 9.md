@@ -7,7 +7,7 @@ Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of Activities
 Colin – <br>
-Andrew – <br>
+Andrew – Created initial unit tests to test basic movement. Working on bug-fixing the title screen. <br>
 Zach – <br>
 Jack – <br>
 Jade – <br>
