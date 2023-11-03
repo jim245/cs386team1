@@ -1,8 +1,8 @@
 # Report for Meeting 9
 Group 1: Go Forth! <br>
 Date and location: 11/3/23, Online/Discord <br>
-Present participants: Andrew (Minute Taker), Colin (Manager), Jack (Manager), Jade (Quality Assurance), Zach (Quality Assurance) <br>
-Missing participants: N/A <br>
+Present participants: Andrew (Minute Taker), Colin (Manager), Jade (Quality Assurance), Zach (Quality Assurance) <br>
+Missing participants: Jack <br>
 Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of Activities
