@@ -6,7 +6,7 @@ Missing participants: Jack, Jade <br>
 Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of Activities
-Colin – <br>
+Colin – Fixed up timerController for better cross-script accessibility, fixed scorehandler so it can finally hold an actual score, and added an end-point that pauses the time and later on will complete the level.<br>
 Andrew – Created initial unit tests to test basic movement. Fixed a bug preventing the "New Game" button on the title screen from functioning properly. <br>
 Zach – <br>
 Jack – <br>
