@@ -5,13 +5,18 @@ using TMPro;
 
 public class ScoreHolder : MonoBehaviour
 {
-    public TMP_Text scoreUI_Text;
+    // TMP_Text scoreUI_Text;
     public int scoreNum = 0;
+    //scoreUI_Text.text = scoreNum.ToString();
 
-
-    public void changeScore(int addedScore)
+    void Start()
     {
-        scoreNum += addedScore;
-        scoreUI_Text.text = scoreNum.ToString();
+        //scoreUI_Text.text = scoreNum.ToString();
+    }
+
+    public void changeScore(float time)
+    {
+        scoreNum += (int)((time*time)/5);
+        //scoreUI_Text.text = scoreNum.ToString();
     }
 }
