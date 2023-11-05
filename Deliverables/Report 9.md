@@ -7,7 +7,7 @@ Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of Activities
 Colin – <br>
-Andrew – Created initial unit tests to test basic movement. Working on bug-fixing the title screen. <br>
+Andrew – Created initial unit tests to test basic movement. Fixed a bug preventing the "New Game" button on the title screen from functioning properly. <br>
 Zach – <br>
 Jack – <br>
 Jade – <br>
@@ -20,3 +20,4 @@ Jade – <br>
   5. What we should try next time: <br>
 
 ## 3. Next steps
+Now that we have a good founding for our project with the initial level, we will work on implementing key features such as the leaderboard and the power-up system. We also must work on the next deliverable.
