@@ -8,7 +8,7 @@ Project repo: https://github.com/jim245/cs386team1 <br>
 ## 1. Summary of Activities
 Colin – Fixed up timerController for better cross-script accessibility, fixed score handler, so it can finally hold an actual score, and added an end-point that pauses the time and later on will complete the level.<br>
 Andrew – Created initial unit tests to test basic movement. Fixed a bug preventing the "New Game" button on the title screen from functioning properly. <br>
-Zach – <br>
+Zach –Started thinking of new level design ideas. <br>
 Jack – <br>
 Jade – Started work on an initial power-up item. <br>
 
