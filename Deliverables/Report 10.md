@@ -1,7 +1,7 @@
 # Report for Meeting 10
 Group 1: Go Forth! <br>
 Date and location: 11/10/23, Online/Discord <br>
-Present participants: <br>
+Present participants: Andrew, Jack, Jade, Zach <br>
 Missing participants: <br>
 Project repo: https://github.com/jim245/cs386team1 <br>
 
