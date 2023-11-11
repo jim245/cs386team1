@@ -19,3 +19,11 @@
 ## Design Patterns
 
 ## Design Principles
+### Single-Responsibility Principle
+<p>The Single-Responsibility Principle states that "a class should have one and only one reason to change, meaning that a class should have only one job." Our classes adhere to this principle in the sense that each class serves a specific responsibility. For example, the PlayerMovement class is centered around the movement of the knight sprite that is controlled by the player. To better adhere to this design principle, collision is handled in a different class, PlayerColliderHandler. Another class that focuses on a single responsibility is CheckIfFallen.</p>
+
+### Open-Closed Principle
+<p>This principle states that "objects or entities should be open for extension but closed for modification." Our classes are generally closed for modification in the sense that their responsibilities are clear. One example of a class that can be considered as closed for modification is the CheckIfFallen class. This class has a singular purpose, however further modification can be implemented to account for what level the player is on. Another class to consider is TimeController. The timer functionality of this class is closed for modification, but it might require modification if it were to be extended to handle different time-related features.</p>
+
+### Liskov Substitution Principle
+<p>The Liskov Substitution Principle indicates that "every subclass or derived class should be substitutable for their base or parent class." Our project does not currently incorporate subclasses or derived classes in a way that would demonstrate or violate the Liskov Substitution Principle.</p>
