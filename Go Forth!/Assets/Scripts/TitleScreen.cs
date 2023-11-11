@@ -5,8 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class TitleScreen : MonoBehaviour
 {
-    public void LoadGame()
+    public string levelName;
+
+    public void LoadLevel()
     {
-        SceneManager.LoadScene(1);  // Loads first level
+        SceneManager.LoadScene(levelName);  // Loads first level
     }
 }
