@@ -27,3 +27,9 @@
 
 ### Liskov Substitution Principle
 <p>The Liskov Substitution Principle indicates that "every subclass or derived class should be substitutable for their base or parent class." Our project does not currently incorporate subclasses or derived classes in a way that would demonstrate or violate the Liskov Substitution Principle.</p>
+
+### Interface Segregation Principle
+<p>This principle states that "a client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use." Once again, our scripts do not explicitly implement interfaces that can be analyzed by the Interface Segregation principle. While this is true, none of the classes have overly large interfaces that would indicate a violation of the principle.</p>
+
+### Dependency Inversion Principle
+<p>The last principle, the Dependency Inversion Principle, states that "the high-level module must not depend on the low-level module, but they should depend on abstractions." This principle is demonstrated well in our PlayerColliderHandler class and its Start method. Dependency is demonstrated by the class receiving references to the ScoreHolder and TimerController classes, following the principle by relying on abstractions instead of concrete implementations.</p>
