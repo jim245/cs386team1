@@ -17,6 +17,9 @@
 ![alt text](https://github.com/jim245/cs386team1/blob/main/Deliverables/Design%20Class%20Diagram.png?raw=true)
 
 ## Sequence Diagram
+User finishes the game, submits the time to the leaderboard, and wants to see where he placed. 
+*leaderboard isn't properly functioning yet, but there isn't much to make a use case off currently
+![image](https://github.com/jim245/cs386team1/assets/93413915/c414625b-b7c2-4479-b9bc-d8f584ea7c6c)
 
 ## Design Patterns
 
