@@ -477,7 +477,6 @@ GameObject:
   - component: {fileID: 1265010140}
   - component: {fileID: 1265010139}
   - component: {fileID: 1265010138}
-  - component: {fileID: 1265010137}
   m_Layer: 5
   m_Name: QuitButton
   m_TagString: Untagged
@@ -504,19 +503,6 @@ RectTransform:
   m_AnchoredPosition: {x: -0.000000029802, y: -51.4}
   m_SizeDelta: {x: 116.1904, y: 40.5608}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1265010137
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1265010135}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2958103dc4f4d2f42a73ad706d769458, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  levelName: Level1
 --- !u!114 &1265010138
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -560,7 +546,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1265010139}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2083238575}
+        m_TargetAssemblyTypeName: SceneLoader, ScriptsToTest
+        m_MethodName: QuitGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1265010139
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -742,6 +740,50 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2083238574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2083238576}
+  - component: {fileID: 2083238575}
+  m_Layer: 0
+  m_Name: SceneLoader
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2083238575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2083238574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3db796e3052f6e84c97e8fc9c96e1e1f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &2083238576
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2083238574}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -60.94082, y: -7.830599, z: -1.9147766}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -749,3 +791,4 @@ SceneRoots:
   - {fileID: 623714260}
   - {fileID: 615470833}
   - {fileID: 1749477191}
+  - {fileID: 2083238576}
