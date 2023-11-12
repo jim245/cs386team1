@@ -8,7 +8,7 @@ Project repo: https://github.com/jim245/cs386team1 <br>
 ## 1. Summary of Activities
 Colin – Working on worksheets, updating score again<br>
 Andrew – Added a quit button to the title screen and some animation to the new game button. Made a script for the camera movement and created screen bounds so the camera does not follow the player off-screen.<br>
-Zach - <br>
+Zach - Worked on the design patterns diagram.<br>
 Jack – Created the update class diagram for the design deliverable.<br>
 Jade – <br>
 
