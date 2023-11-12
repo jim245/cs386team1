@@ -14,6 +14,8 @@
 
 ## Class Diagram
 
+![alt text](https://github.com/jim245/cs386team1/blob/main/Deliverables/Design%20Class%20Diagram.png?raw=true)
+
 ## Sequence Diagram
 
 ## Design Patterns
