@@ -12,6 +12,8 @@
 
 ## Architecture
 
+We opted to diverge from the provided list of styles/patterns, and went with the combination of the Singleton and State design patterns. We chose this because it most closely represents the majority of our game, rather than any of the other ones that didn't represent our game in the best way.
+
 ## Class Diagram
 
 ![alt text](https://github.com/jim245/cs386team1/blob/main/Deliverables/Design%20Class%20Diagram.png?raw=true)
