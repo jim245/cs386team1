@@ -9,7 +9,7 @@ Project repo: https://github.com/jim245/cs386team1 <br>
 Colin – Working on worksheets, updating score again<br>
 Andrew – Added a quit button to the title screen and some animation to the new game button.<br>
 Zach - <br>
-Jack – <br>
+Jack – Created the update class diagram for the design deliverable.<br>
 Jade – <br>
 
 ## 2. Project Retrospective
