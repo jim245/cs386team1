@@ -24,6 +24,12 @@ This shows that the system is split into 2 main parts, the client and the server
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Sequence Diagram
 User finishes the game, submits the time to the leaderboard, and wants to see where he placed. <br>
 *leaderboard isn't properly functioning yet, but there isn't much to make a use case off currently<br>
