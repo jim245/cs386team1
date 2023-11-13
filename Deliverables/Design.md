@@ -11,8 +11,9 @@
 </p>
 
 ## Architecture
+![](https://github.com/jim245/cs386team1/blob/main/Deliverables/D.5%20Architecture.png)
 
-We opted to diverge from the provided list of styles/patterns, and went with the combination of the Singleton and State design patterns. We chose this because it most closely represents the majority of our game, rather than any of the other ones that didn't represent our game in the best way.
+This shows that the system is split into 2 main parts, the client and the server. The server doesn't really do anything other than maintain the leaderboard, so it is simplified into "Server.Leaderboard". The client contains the game, a Score object, and the Title Screen. The Score is the object sent out to the server to be processed and stored.
 
 ## Class Diagram
 
