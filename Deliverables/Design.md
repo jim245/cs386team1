@@ -45,6 +45,7 @@ Success Scenario:<br>
 ## Design Patterns
 *Zach said he'd do it, and set a temp image but never did it.
 <img width="149" alt="image" src="https://github.com/jim245/cs386team1/assets/102444687/988c3ecc-0db4-475a-a53a-5ff8bb140210">
+![Strcutural Adapter](https://github.com/jim245/cs386team1/blob/main/Deliverables/Design%20Patterns.png?raw=true)
 
 
 ## Design Principles
