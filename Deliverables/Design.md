@@ -20,20 +20,20 @@ This shows that the system is split into 2 main parts, the client and the server
 ![alt text](https://github.com/jim245/cs386team1/blob/main/Deliverables/Design%20Class%20Diagram.png?raw=true)
 
 ## Sequence Diagram
-User finishes the game, submits the time to the leaderboard, and wants to see where he placed. 
-*leaderboard isn't properly functioning yet, but there isn't much to make a use case off currently
-Use Case: Use leaderboard
-Actor: Player
-Trigger: Player submits time
-Pre-conditions: Player beats the game once
-Post-conditions: Player's time is submitted to the leaderboard, and ranked among other's
-Success Scenario:
+User finishes the game, submits the time to the leaderboard, and wants to see where he placed. <br>
+*leaderboard isn't properly functioning yet, but there isn't much to make a use case off currently<br>
+Use Case: Use leaderboard<br>
+Actor: Player <br>
+Trigger: Player submits time<br>
+Pre-conditions: Player beats the game once<br>
+Post-conditions: Player's time is submitted to the leaderboard, and ranked among other's<br>
+Success Scenario:<br>
 
-Player opens game
-Player completes game
-Player submits score
-Score is sent to server
-Server gives back new data
+Player opens game<br>
+Player completes game<br>
+Player submits score<br>
+Score is sent to server<br>
+Server gives back new data<br>
 
 ![image](https://github.com/jim245/cs386team1/assets/93413915/c414625b-b7c2-4479-b9bc-d8f584ea7c6c)
 
