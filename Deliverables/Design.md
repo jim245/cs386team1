@@ -22,6 +22,19 @@ This shows that the system is split into 2 main parts, the client and the server
 ## Sequence Diagram
 User finishes the game, submits the time to the leaderboard, and wants to see where he placed. 
 *leaderboard isn't properly functioning yet, but there isn't much to make a use case off currently
+Use Case: Use leaderboard
+Actor: Player
+Trigger: Player submits time
+Pre-conditions: Player beats the game once
+Post-conditions: Player's time is submitted to the leaderboard, and ranked among other's
+Success Scenario:
+
+Player opens game
+Player completes game
+Player submits score
+Score is sent to server
+Server gives back new data
+
 ![image](https://github.com/jim245/cs386team1/assets/93413915/c414625b-b7c2-4479-b9bc-d8f584ea7c6c)
 
 ## Design Patterns
