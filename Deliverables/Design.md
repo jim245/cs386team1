@@ -29,11 +29,11 @@ Pre-conditions: Player beats the game once<br>
 Post-conditions: Player's time is submitted to the leaderboard, and ranked among other's<br>
 Success Scenario:<br>
 
-Player opens game<br>
-Player completes game<br>
-Player submits score<br>
-Score is sent to server<br>
-Server gives back new data<br>
+-Player opens game<br>
+-Player completes game<br>
+-Player submits score<br>
+-Score is sent to server<br>
+-Server gives back new data<br>
 
 ![image](https://github.com/jim245/cs386team1/assets/93413915/c414625b-b7c2-4479-b9bc-d8f584ea7c6c)
 
