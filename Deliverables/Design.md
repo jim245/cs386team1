@@ -38,6 +38,7 @@ Success Scenario:<br>
 ![image](https://github.com/jim245/cs386team1/assets/93413915/c414625b-b7c2-4479-b9bc-d8f584ea7c6c)
 
 ## Design Patterns
+*Zach said he'd do it, and set a temp image but never did it.
 <img width="149" alt="image" src="https://github.com/jim245/cs386team1/assets/102444687/988c3ecc-0db4-475a-a53a-5ff8bb140210">
 
 
