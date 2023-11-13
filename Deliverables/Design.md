@@ -50,9 +50,9 @@ Success Scenario:<br>
 
 ## Design Patterns
 
-- Creational Singleton
+- Creational Singleton <br>
 ![Creational Singleton](https://github.com/jim245/cs386team1/blob/main/Deliverables/Design%20Patterns%202.png?raw=true) <br>
-- Structural Adapter
+- Structural Adapter <br>
 ![Strcutural Adapter](https://github.com/jim245/cs386team1/blob/main/Deliverables/Design%20Patterns.png?raw=true)
 
 
