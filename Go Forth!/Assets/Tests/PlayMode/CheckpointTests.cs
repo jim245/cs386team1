@@ -2,8 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using NUnit.Framework;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using UnityEngine.TestTools;
+using UnityEngine.SceneManagement;
+using System.Numerics;
 
 public class CheckpointTests
 {
@@ -41,4 +42,31 @@ public class CheckpointTests
         Assert.IsNotNull(checkpointScript, "Checkpoint script not found on the checkpoint flag object");
     }
 
+    [UnityTest]
+    public IEnumerator TestTests()
+    {
+        // Check if the respawn point is at the start initially
+        Assert.IsTrue(true);
+        yield return null;
+    }
+
+    [UnityTest]
+    public IEnumerator TestRespawnPointFirstAtStart()
+    {
+        // Check if the respawn point is at the start initially
+        Assert.IsTrue(respawnPointObject.transform.position.x == knightObject.transform.position.x, "Respawn not initially at knight start");
+        yield return null;
+    }
+
+    [UnityTest]
+    public IEnumerator TestCheckpointFlagChangesRespawnPoint()
+    {
+        // Simulate knight interacting with checkpoint flag
+        knightObject.transform.position = checkpointFlagObject.transform.position;
+        yield return null;
+
+        // Check if the respawn point changed to checkpoint flag
+        Assert.IsTrue(respawnPointObject.transform.position == checkpointFlagObject.transform.position, "Respawn point did not change");
+        yield return null;
+    }
 }
