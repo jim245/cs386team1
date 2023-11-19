@@ -9,7 +9,7 @@ Requirement: As a casual gamer, I want checkpoints in levels so that I can play 
 Issue: [https://github.com/jim245/cs386team1/issues/2](https://github.com/jim245/cs386team1/issues/2) <br>
 Pull request: [https://github.com/jim245/cs386team1/pull/38](https://github.com/jim245/cs386team1/pull/38) <br>
 Implemented by: Andrew Angus <br>
-Approved by: <br>
+Approved by: Jack Watson <br>
 Print screen: ![image](https://github.com/jim245/cs386team1/assets/101908863/cc08d89b-837c-4389-a72e-8c163bf22fc9) <br>
 
 Requirement: As a Gamer, I want power-ups so that I can change the way I play the game. <br>
@@ -22,9 +22,9 @@ Print screen: <br>
 
 ## Tests
 Framework: Unity Test Framework (NUnit) <br>
-Link: <br>
-Example: <br>
-Print screen: <br>
+Link: [here](https://github.com/jim245/cs386team1/tree/main/Go%20Forth!/Assets/Tests/PlayMode) <br>
+Example: An example test case is ensuring the player's respawn point is updated to the checkpoint flag's position after the player interacts with the checkpoint flag. <br>
+Print screen: ![image](https://github.com/jim245/cs386team1/assets/101908863/6bea17b7-80ff-43d6-b213-51de435a51a0) <br>
 
 ## Demo
 
