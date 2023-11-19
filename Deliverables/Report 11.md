@@ -13,9 +13,9 @@ Jack – <br>
 Jade – Added a basic power-up mechanic, continued work on the leaderboard. <br>
 
 ## 2. Project Retrospective
-  1. Appreciations: <br>
-  2. Successes: <br>
-  3. Failures: <br>
+  1. Appreciations: Shoutout to Jack for volunteering to create the demo video. <br>
+  2. Successes: We are starting to add exciting features to the game. <br>
+  3. Failures: None. <br>
   4. Barriers: <br>
   5. What we should try next time: <br>
 
