@@ -212,9 +212,10 @@ GameObject:
   - component: {fileID: 110325981}
   - component: {fileID: 110325980}
   - component: {fileID: 110325979}
+  - component: {fileID: 110325982}
   m_Layer: 0
   m_Name: CheckpointFlag
-  m_TagString: Flag
+  m_TagString: Checkpoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -331,6 +332,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &110325982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 110325978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5630b02cd1a206f41b6ccbf19da5c9b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &161597515 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5506460280815020734, guid: 30a27e100a900ae4086f2ef048b0e2df, type: 3}
@@ -4130,7 +4143,7 @@ GameObject:
   - component: {fileID: 1762825131}
   m_Layer: 0
   m_Name: RespawnPoint
-  m_TagString: Untagged
+  m_TagString: Respawn
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

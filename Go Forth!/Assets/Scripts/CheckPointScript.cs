@@ -1,8 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Assertions;
+using UnityEngine.SceneManagement;
 
-public class CheckPointScript : MonoBehaviour
+public class CheckpointScript : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D other)
     {
