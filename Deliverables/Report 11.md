@@ -7,7 +7,7 @@ Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of Activities
 Colin – <br>
-Andrew – <br>
+Andrew – Fixed the unit tests not passing.<br>
 Zach - <br>
 Jack – <br>
 Jade – Added a basic power-up mechanic, continued work on the leaderboard. <br>
