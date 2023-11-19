@@ -1,17 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
+using UnityEngine.UI;
 
 public class ScoreHolder : MonoBehaviour
 {
-    public TMP_Text scoreUI_Text;
+    // TMP_Text scoreUI_Text;
     public int scoreNum = 0;
+    public Text scoreText;
 
-
-    public void changeScore(int addedScore)
+    public void changeScore(float time)
     {
-        scoreNum += addedScore;
-        scoreUI_Text.text = scoreNum.ToString();
+        scoreNum += (int)((time*time)/5);
+        scoreText.text = scoreNum.ToString();
     }
 }

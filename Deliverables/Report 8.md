@@ -6,11 +6,11 @@ Missing participants: N/A <br>
 Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of Activities
-Colin – I added the simpliest form of camera movement that can be changed later on if need-be, and a framework for the score mechanic. Later fixed player movement bug<br>
+Colin – I added the simplest form of camera movement that can be changed later on if need-be, and a framework for the score mechanic. Later fixed player movement bug and a bug with the timer & death event. <br>
 Andrew – I worked on setting up a title screen with only one button to start the game.<br>
-Zach – <br>
-Jack – <br>
-Jade – <br>
+Zach – I worked on creating the in-game timer that will be used for the leaderboard. <br>
+Jack – I built the basic level layout, adding platforms and structure to the game. I coded the platforms to allow the player to jump through from underneath. I also distributed the spike objects Jade produced throughout the level.<br>
+Jade – Implemented basic spikes that kill the player and send them back to the start of the level. <br>
 
 ## 2. Project Retrospective
   1. Appreciations: Everyone has put in work on the project<br>
@@ -20,4 +20,4 @@ Jade – <br>
   5. What we should try next time: Working ahead farther, preventing a crunch between the meeting and deliverables. <br>
 
 ## 3. Next steps
-Begin laying out the architecture of the whole system for future deliverables. Add some missing features, focusing on the leaderboard system.
+Begin laying out the architecture of the whole system for future deliverables. Add some missing features, focusing on the first level, and basic mechanics.

@@ -6,18 +6,14 @@ using UnityEngine.SceneManagement;
 public class CheckIfFallen : MonoBehaviour
 {
     public static float bottomY = -20f;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
     {
         if(transform.position.y < bottomY)
         {
-            SceneManager.LoadScene(1);
+            // Respawn player
+            GameObject.Find("Knight").transform.position = GameObject.Find("RespawnPoint").transform.position;
         }
     }
 }
