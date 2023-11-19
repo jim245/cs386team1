@@ -8,7 +8,7 @@ Project repo: https://github.com/jim245/cs386team1 <br>
 ## 1. Summary of Activities
 Colin – Updated score again, making the code cleaner and tying it to the UI<br>
 Andrew – Fixed the player movement unit tests not passing. Added checkpoint feature and working unit tests for it. <br>
-Zach - <br>
+Zach - Updated the timer code <br>
 Jack – <br>
 Jade – Added a basic power-up mechanic, continued work on the leaderboard. <br>
 
