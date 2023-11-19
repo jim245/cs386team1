@@ -9,7 +9,7 @@ public class TimerController : MonoBehaviour
     public Text timerText;
     private float startTime;
     bool runTimer = true;
-    public float t;
+    public float timeVal;
 
     void Start () {
         startTime = Time.time;
@@ -18,10 +18,10 @@ public class TimerController : MonoBehaviour
     void Update () {
         if (runTimer)
         {
-            t = Time.time - startTime;
+            timeVal = Time.time - startTime;
 
-            string minutes = ((int)t / 60).ToString();
-            string seconds = (t % 60).ToString("f2");
+            string minutes = ((int)timeVal / 60).ToString();
+            string seconds = (timeVal % 60).ToString("f2");
 
             timerText.text = minutes + ":" + seconds;
         }
@@ -39,6 +39,6 @@ public class TimerController : MonoBehaviour
 
     public float getTime()
     {
-        return t;
+        return timeVal;
     }
 }
