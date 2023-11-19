@@ -1,12 +1,12 @@
 # Report for Meeting 11
 Group 1: Go Forth! <br>
 Date and location: 11/17/2023, Online <br>
-Present participants: Andrew, Jack, Jade, Zach <br>
-Missing participants: Colin <br>
+Present participants: Andrew, Jack, Jade, Zach, Colin <br>
+Missing participants: 
 Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of Activities
-Colin – <br>
+Colin – Updated score again, making the code cleaner and tying it to the UI<br>
 Andrew – Fixed the unit tests not passing.<br>
 Zach - <br>
 Jack – <br>
