@@ -1548,6 +1548,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreNum: 0
+  scoreText: {fileID: 0}
 --- !u!4 &880100568
 Transform:
   m_ObjectHideFlags: 0
@@ -3988,6 +3989,37 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2006513086881921228, guid: ca92aace5274ec14d81f0472e62461e5, type: 3}
   m_PrefabInstance: {fileID: 840437800}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1762825130
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1762825131}
+  m_Layer: 0
+  m_Name: RespawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1762825131
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1762825130}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -20, y: 1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1764164554
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4869,6 +4901,10 @@ PrefabInstance:
       propertyPath: m_DrawMode
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6566396054696510269, guid: 8e2f926bf55486e48875b6e26e61f88c, type: 3}
+      propertyPath: m_SpriteTilingProperty.drawMode
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8727272486822011267, guid: 8e2f926bf55486e48875b6e26e61f88c, type: 3}
       propertyPath: m_Name
       value: Spikes
@@ -4896,3 +4932,4 @@ SceneRoots:
   - {fileID: 1652003030}
   - {fileID: 719680945}
   - {fileID: 1865887082}
+  - {fileID: 1762825131}
