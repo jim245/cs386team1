@@ -10,21 +10,20 @@ Issue: [https://github.com/jim245/cs386team1/issues/2](https://github.com/jim245
 Pull request: [https://github.com/jim245/cs386team1/pull/38](https://github.com/jim245/cs386team1/pull/38) <br>
 Implemented by: Andrew Angus <br>
 Approved by: Jack Watson <br>
-Print screen: ![image](https://github.com/jim245/cs386team1/assets/101908863/cc08d89b-837c-4389-a72e-8c163bf22fc9) <br>
+Print screen: <br> ![image](https://github.com/jim245/cs386team1/assets/101908863/cc08d89b-837c-4389-a72e-8c163bf22fc9)
 
 Requirement: As a Gamer, I want power-ups so that I can change the way I play the game. <br>
 Issue: [https://github.com/jim245/cs386team1/issues/5](https://github.com/jim245/cs386team1/issues/5) <br>
 Pull request: [https://github.com/jim245/cs386team1/pull/33](https://github.com/jim245/cs386team1/pull/33)<br>
 Implemented by: Jade Meskill <br>
 Approved by: Andrew Angus <br>
-Print screen: <br>
-
+Print screen: <br> ![](https://github.com/jim245/cs386team1/assets/102260172/cc8bf9ec-c201-49e9-a489-371e94af41d8)
 
 ## Tests
 Framework: Unity Test Framework (NUnit) <br>
 Link: [here](https://github.com/jim245/cs386team1/tree/main/Go%20Forth!/Assets/Tests/PlayMode) <br>
 Example: An example test case is ensuring the player's respawn point is updated to the checkpoint flag's position after the player interacts with the checkpoint flag. [class](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Scripts/CheckPointScript.cs) and [test](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Tests/PlayMode/CheckpointTests.cs) <br>
-Print screen: ![image](https://github.com/jim245/cs386team1/assets/101908863/6bea17b7-80ff-43d6-b213-51de435a51a0) <br>
+Print screen: <br> ![image](https://github.com/jim245/cs386team1/assets/101908863/6bea17b7-80ff-43d6-b213-51de435a51a0)
 
 ## Demo
 
