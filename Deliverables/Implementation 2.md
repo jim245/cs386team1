@@ -19,6 +19,13 @@ Implemented by: Jade Meskill <br>
 Approved by: Andrew Angus <br>
 Print screen: <br> ![](https://github.com/jim245/cs386team1/assets/102260172/cc8bf9ec-c201-49e9-a489-371e94af41d8)
 
+Requirement: As a gamer, I want coins in the game so that the scoring system in more in depth and variable. <br>
+Issue: [https://github.com/jim245/cs386team1/issues/44](https://github.com/jim245/cs386team1/issues/44) <br>
+Pull request: [https://github.com/jim245/cs386team1/pull/41](https://github.com/jim245/cs386team1/pull/41) <br>
+Implemented by: Jack Watson <br>
+Approved by: Zach Trusso <br>
+Print screen: <br> ![alt text](https://github.com/jim245/cs386team1/blob/main/Deliverables/ScreenShotOfCoin.png?raw=true)
+
 ## Tests
 Framework: Unity Test Framework (NUnit) <br>
 Link: [here](https://github.com/jim245/cs386team1/tree/main/Go%20Forth!/Assets/Tests/PlayMode) <br>
