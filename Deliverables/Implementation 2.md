@@ -37,4 +37,4 @@ Demo: [Link to game hosted online](https://jaw847.github.io/GoForth/) <br>
 ## Code Quality
 
 ## Lessons Learned
-
+Our team learned that we need more communication between the team members and we need to start the deliverable earlier in the week. We will make changes so we have meetings at times when all members can attend and members will make sure to check discord more often. <br>
