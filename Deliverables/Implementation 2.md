@@ -33,14 +33,13 @@ Example: An example test case is ensuring the player's respawn point is updated 
 Print screen: <br> ![image](https://github.com/jim245/cs386team1/assets/101908863/6bea17b7-80ff-43d6-b213-51de435a51a0)
 
 ## Demo
-
 [GoForth! Demo](https://youtu.be/myu_ZIy4BQ4)
 
 ### Online Deployment
-
 Demo: [Link to game hosted online](https://jaw847.github.io/GoForth/) <br>
 
 ## Code Quality
+While we all coded slightly differently, we generally agreed on certain principles. Generally, we looked to external resources for inspiration for our features and code, which also introduced some variability. Camelcase was the primary naming convention, for both variables and function names. Thorough commenting ensured readability and the ability to interpret code written by others. Objects in the Unity Engine were also named with camelcase, but also sorted properly into folders. 
 
 ## Lessons Learned
 Our team learned that we need more communication between the team members, and we need to start the deliverable earlier in the week. We will make changes, so we have meetings at times when all members can attend and members will make sure to check discord more often. For the actual coding, we've gotten a bit more familiar with C# once again, and are getting more used to the unity engine and the features it has. We've gotten more familiar with different test units, in particular ones different from class since it uses C# not Python. We're also trying to cut down on the lines of code we use in each class and make things run better and make it easier to add things later on, even if it doesn't help right this second.<br>
