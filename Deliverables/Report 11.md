@@ -2,14 +2,14 @@
 Group 1: Go Forth! <br>
 Date and location: 11/17/2023, Online <br>
 Present participants: Andrew, Jack, Jade, Zach, Colin <br>
-Missing participants: 
+Missing participants: <br>
 Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of Activities
-Colin – Updated score again, making the code cleaner and tying it to the UI<br>
+Colin – Updated score again, making the code cleaner and tying it to the UI. <br>
 Andrew – Fixed the player movement unit tests not passing. Added checkpoint feature and working unit tests for it. <br>
 Zach - Updated the timer code and worked on the implementation 2 deliverable. <br>
-Jack – Added coins with animation, when collected they add to the players score. I also hosted the game online via github pages, I included the link as the demo in the implemetation 2 deliverable. <br>
+Jack – Added coins with animation, when collected they add to the players score. I also hosted the game online via GitHub pages, I included the link as the demo in the implementation 2 deliverable. <br>
 Jade – Added a basic power-up mechanic, continued work on the leaderboard. <br>
 
 ## 2. Project Retrospective
