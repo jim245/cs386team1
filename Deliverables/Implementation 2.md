@@ -33,3 +33,5 @@ Demo: [Link to game hosted online](https://jaw847.github.io/GoForth/) <br>
 ## Code Quality
 
 ## Lessons Learned
+YouTube Videos - Primary learning source, varied tutorials with in depth guides. <br>
+Internet Research - Websites can provide valuable resources for specific issues. <br>
