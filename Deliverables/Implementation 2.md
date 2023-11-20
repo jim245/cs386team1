@@ -28,7 +28,7 @@ Print screen: ![image](https://github.com/jim245/cs386team1/assets/101908863/6be
 
 ## Demo
 
-[here](https://jaw847.github.io/GoForth/) <br>
+Demo: [Link to game hosted online](https://jaw847.github.io/GoForth/) <br>
 
 ## Code Quality
 
