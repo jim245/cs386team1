@@ -26,6 +26,13 @@ Implemented by: Jack Watson <br>
 Approved by: Zach Trusso <br>
 Print screen: <br> ![alt text](https://github.com/jim245/cs386team1/blob/main/Deliverables/ScreenShotOfCoin.png?raw=true)
 
+Requirement: As a gamer, I want to see my score as I play <br>
+Issue: [https://github.com/jim245/cs386team1/issues/45](https://github.com/jim245/cs386team1/issues/45) <br>
+Pull request: [https://github.com/jim245/cs386team1/pull/41](https://github.com/jim245/cs386team1/pull/37) <br>
+Implemented by: Colin MacDonald <br>
+Approved by: Colin MacDonald (Had issues with multiple conflicts, so I approved it myself after tinkering) <br>
+Print screen: <br> ![alt text](https://github.com/jim245/cs386team1/blob/main/Deliverables/score.png?raw=true)
+
 ## Tests
 Framework: Unity Test Framework (NUnit) <br>
 Link: [here](https://github.com/jim245/cs386team1/tree/main/Go%20Forth!/Assets/Tests/PlayMode) <br>
