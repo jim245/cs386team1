@@ -30,7 +30,7 @@ Print screen: ![image](https://github.com/jim245/cs386team1/assets/101908863/6be
 
 Demo video will be here
 
-### Deployment
+### Online Deployment
 
 Demo: [Link to game hosted online](https://jaw847.github.io/GoForth/) <br>
 
