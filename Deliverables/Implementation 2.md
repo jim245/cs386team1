@@ -23,7 +23,7 @@ Print screen: <br>
 ## Tests
 Framework: Unity Test Framework (NUnit) <br>
 Link: [here](https://github.com/jim245/cs386team1/tree/main/Go%20Forth!/Assets/Tests/PlayMode) <br>
-Example: An example test case is ensuring the player's respawn point is updated to the checkpoint flag's position after the player interacts with the checkpoint flag. <br>
+Example: An example test case is ensuring the player's respawn point is updated to the checkpoint flag's position after the player interacts with the checkpoint flag. [class](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Scripts/CheckPointScript.cs) and [test](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Tests/PlayMode/CheckpointTests.cs) <br>
 Print screen: ![image](https://github.com/jim245/cs386team1/assets/101908863/6bea17b7-80ff-43d6-b213-51de435a51a0) <br>
 
 ## Demo
