@@ -7,7 +7,7 @@ Project repo: https://github.com/jim245/cs386team1 <br>
 
 ## 1. Summary of Activities
 Colin – <br>
-Andrew – <br>
+Andrew – Made sprites for a new level, including an enemy sprite that will have functionality. <br>
 Zach - <br>
 Jack – <br>
 Jade – <br>
