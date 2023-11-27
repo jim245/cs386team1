@@ -8,7 +8,7 @@ Project repo: https://github.com/jim245/cs386team1 <br>
 ## 1. Summary of Activities
 Colin – Not much, spent time with family but thought about code changes to make it apply to all levels<br>
 Andrew – Made sprites for a new level, including an enemy sprite that will have functionality. <br>
-Zach - <br>
+Zach - Brainstormed design ideas for future levels.<br>
 Jack – Fine tuned some code, began working on the final deliverable. <br>
 Jade – Started looking to the final deliverable, investigated testing. <br>
 
