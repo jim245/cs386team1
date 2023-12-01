@@ -17,7 +17,7 @@ Print Screen: <br>
 ### Script
 
 ### Results
-**User Review 4**: "A Nostalgic Dash Through Medieval Adventures" (4/5 stars)
+**User Review 1**: "A Nostalgic Dash Through Medieval Adventures" (4/5 stars)
 
 Go Forth! resurrects the golden era of 2D sidescrollers, infusing a competitive spirit within a medieval world. The game's emphasis on speedrunning is a breath of fresh air, challenging players to navigate through creatively designed levels, hopping across platforms while snagging coins and leveraging power-ups along the way.
 
