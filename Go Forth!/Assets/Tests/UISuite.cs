@@ -4,15 +4,13 @@ using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
 using UnityEngine.InputSystem;
+using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
 
 namespace Tests
 {
     public class NewGameTest : InputTestFixture
     {
-        // Create mouse object
-        Mouse mouse;
-
         // Create setup method
         public override void Setup()
         {
@@ -20,24 +18,6 @@ namespace Tests
 
             // Load the title screen
             SceneManager.LoadScene("TitleScreen");
-
-            // Add the mouse object to the input system
-            mouse = InputSystem.AddDevice<Mouse>();
-        }
-
-        public void ClickUI(GameObject element)
-        {
-            // Create and set the camera object
-            Camera camera = GameObject.Find("Main Camera").GetComponent<Camera>();
-
-            // Create and set the screen position
-            Vector3 screenPos = camera.WorldToScreenPoint(element.transform.position);
-
-            // Move the mouse to the screen position
-            Set(mouse.position, screenPos);
-
-            // Click the mouse
-            Click(mouse.leftButton);
         }
 
         [UnityTest]
@@ -53,7 +33,7 @@ namespace Tests
             Assert.That(sceneName, Is.EqualTo("TitleScreen"));
 
             // Click the new game button
-            ClickUI(newGameButton);
+            ExecuteEvents.Execute(newGameButton, new PointerEventData(EventSystem.current), ExecuteEvents.pointerClickHandler);
 
             // Wait for 2 seconds
             yield return new WaitForSeconds(2f);
