@@ -15,6 +15,12 @@ Print Screen: <br>
 
 ## Validation
 ### Script
+Task: Play through the game
+Q: "What do you think about the theme of the game?"
+
+Q: "What do you think about the core idea of the game?"
+
+Q: "What would you change about the game?"
 
 ### Results
 **User Review 1**: "A Nostalgic Dash Through Medieval Adventures" (4/5 stars)
