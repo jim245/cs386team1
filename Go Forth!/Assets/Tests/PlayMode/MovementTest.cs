@@ -8,6 +8,7 @@ public class MovementTest
 {
     private GameObject knightObject;
     private PlayerMovement playerMovementScript;
+    private Rigidbody2D originalRigidBody2D;
 
     [OneTimeSetUp]
     public void LoadScene()
@@ -28,6 +29,15 @@ public class MovementTest
         // Get the knight's movement script
         playerMovementScript = knightObject.GetComponent<PlayerMovement>();
         Assert.IsNotNull(playerMovementScript, "PlayerMovement script not found on the Knight object");
+
+        // Store the original RigidBody2D
+        originalRigidBody2D = playerMovementScript.playerRigidBody;
+
+        // Create a mock object for RigidBody2D
+        Rigidbody2D mockRigidBody2D = new GameObject().AddComponent<Rigidbody2D>();
+
+        // Replace original with mock
+        playerMovementScript.playerRigidBody = mockRigidBody2D;
     }
 
     [UnityTest]
@@ -85,6 +95,14 @@ public class MovementTest
 
         // Verify that the player is not jumping
         Assert.IsFalse(playerMovementScript.isJumping);
+        yield return null;
+    }
+
+    [UnityTearDown]
+    public IEnumerator TearDownTest()
+    {
+        // Restore original RigidBody2D
+        playerMovementScript.playerRigidBody = originalRigidBody2D;
         yield return null;
     }
 }
