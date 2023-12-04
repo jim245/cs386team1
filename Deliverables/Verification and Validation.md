@@ -23,6 +23,10 @@ Q: "What do you think about the core idea of the game?"
 
 Q: "What would you change about the game?"
 
+Q: "What do you like or dislike about the game?"
+
+Q: "What would you change and what do you find different compared to other games?"
+
 ### Results
 **User Review 1**: "A Nostalgic Dash Through Medieval Adventures" (4/5 stars)
 
