@@ -9,8 +9,8 @@ Print Screen: <br> ![image](https://github.com/jim245/cs386team1/assets/10190886
 
 ## Acceptance Test
 Framework: Unity Test Framework (NUnit) <br>
-Link: [here](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Tests/UISuite.cs) <br>
-Example: Tests the "New Game" button on the title screen, checks for changes in Scene ID. <br>
+Link: [here](https://github.com/jim245/cs386team1/tree/main/Go%20Forth!/Assets/Tests) <br>
+Example: Tests the "New Game" button on the title screen, checks for changes in Scene ID [here](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Tests/UISuite.cs). <br>
 Print Screen: <br> ![Screenshot 2023-12-03 at 5 05 00 PM](https://github.com/jim245/cs386team1/assets/102260172/76c81eb7-dfef-4c92-9b23-88cef31cf04d)
 
 
