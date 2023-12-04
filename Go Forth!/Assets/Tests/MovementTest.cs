@@ -47,7 +47,7 @@ public class MovementTest
         Assert.IsTrue(true);
         yield return null;
     }
-    
+
     [UnityTest]
     public IEnumerator TestPlayerCanMoveHorizontally()
     {
@@ -67,7 +67,7 @@ public class MovementTest
     {
         // Set grounded variable
         playerMovementScript.isOnGround = true;
-        
+
         // Check if the knight is considered grounded
         Assert.IsTrue(playerMovementScript.isOnGround, "Knight is not grounded");
         yield return null;
