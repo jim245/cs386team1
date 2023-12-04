@@ -3,15 +3,16 @@ Our game is a 2D sidescroller that takes place in a medieval setting. It is a co
 
 ## Verification
 Framework: Unity Test Framework (NUnit) <br>
-Link: [here](https://github.com/jim245/cs386team1/tree/main/Go%20Forth!/Assets/Tests/PlayMode) <br>
-Example: An example of a test case that uses a mock object is the testing of player movement. Within this test, a mock object for the knight's RigidBody2D is instantiated before the testing of horizontal movement, jumping, and more. [class](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Scripts/PlayerMovement.cs) and [test](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Tests/PlayMode/MovementTest.cs) <br>
-Print Screen: ![image](https://github.com/jim245/cs386team1/assets/101908863/10653bdb-ca1c-452f-95fd-ad79034582fb) <br>
+Link: [here](https://github.com/jim245/cs386team1/tree/main/Go%20Forth!/Assets/Tests) <br>
+Example: An example of a test case that uses a mock object is the testing of player movement. Within this test, a mock object for the knight's RigidBody2D is instantiated before the testing of horizontal movement, jumping, and more. [class](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Scripts/PlayerMovement.cs) and [test](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Tests/MovementTest.cs) <br>
+Print Screen: <br> ![image](https://github.com/jim245/cs386team1/assets/101908863/10653bdb-ca1c-452f-95fd-ad79034582fb)
 
 ## Acceptance Test
-Framework: <br>
-Link: <br>
-Example: <br>
-Print Screen: <br>
+Framework: Unity Test Framework (NUnit) <br>
+Link: [here](https://github.com/jim245/cs386team1/blob/main/Go%20Forth!/Assets/Tests/UISuite.cs) <br>
+Example: Tests the "New Game" button on the title screen, checks for changes in Scene ID. <br>
+Print Screen: <br> ![Screenshot 2023-12-03 at 5 05 00 PM](https://github.com/jim245/cs386team1/assets/102260172/76c81eb7-dfef-4c92-9b23-88cef31cf04d)
+
 
 ## Validation
 ### Script
