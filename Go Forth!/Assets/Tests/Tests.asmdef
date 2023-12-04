@@ -6,7 +6,8 @@
         "UnityEditor.TestRunner",
         "NewAssembly",
         "Unity.InputSystem",
-        "Unity.InputSystem.TestFramework"
+        "Unity.InputSystem.TestFramework",
+        "ScriptsToTest"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

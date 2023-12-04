@@ -7,7 +7,7 @@ using UnityEngine.InputSystem;
 using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
 
-namespace Tests
+namespace UITests
 {
     public class NewGameTest : InputTestFixture
     {
