@@ -1,12 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerColliderHandler : MonoBehaviour
 {
     ScoreHolder scoreTemp;
     TimerController timeTemp;
-
+    int currentLevel = 1;
     void Start()
     {
         scoreTemp = GameObject.FindGameObjectWithTag("Score").GetComponent<ScoreHolder>();
@@ -21,6 +22,11 @@ public class PlayerColliderHandler : MonoBehaviour
             timeTemp.stopTimer();
             scoreTemp.changeScore(timeTemp.getTime());
             Debug.Log("Collided With Flagpole");
+            if (currentLevel == 1)
+            {
+                SceneManager.LoadScene("Level2", LoadSceneMode.Single);
+            }
+            currentLevel++;
         }
     }
 }
