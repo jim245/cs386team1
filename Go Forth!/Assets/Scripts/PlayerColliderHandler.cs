@@ -15,18 +15,5 @@ public class PlayerColliderHandler : MonoBehaviour
         Debug.Log("Started");
     }
 
-    void OnTriggerEnter2D(Collider2D col)
-    {
-        if (col.GetComponent<Collider2D>().name == "Flag")
-        {
-            timeTemp.stopTimer();
-            scoreTemp.changeScore(timeTemp.getTime());
-            Debug.Log("Collided With Flagpole");
-            if (currentLevel == 1)
-            {
-                SceneManager.LoadScene("Level2", LoadSceneMode.Single);
-            }
-            currentLevel++;
-        }
-    }
+    
 }
